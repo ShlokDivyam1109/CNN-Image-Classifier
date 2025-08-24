@@ -48,11 +48,12 @@ def main():
 		return
 	images = images.astype('float32') / 255.0
 
-	# Encode labels
+	# Encode labels (multi-class)
 	lb = LabelBinarizer()
 	labels_bin = lb.fit_transform(labels)
-	if labels_bin.shape[1] == 1:
-		labels_bin = np.hstack([1-labels_bin, labels_bin])
+	# If only two classes, LabelBinarizer returns shape (n,1), so convert to (n,2) for softmax
+	if len(lb.classes_) == 2:
+		labels_bin = np.column_stack([1-labels_bin[:,0], labels_bin[:,0]])
 
 	# Save class names for use in predictor
 	class_names = lb.classes_.tolist()
