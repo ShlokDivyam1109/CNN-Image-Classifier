@@ -51,7 +51,7 @@ while True:
 		break
 	elif key == ord('s'):
 		save_images = not save_images
-		print(f'Last Saved image: {img_count}')
+		print(f'Last Saved image: {img_count - 1}')
 	if save_images:
 		crop = frame[y1:y2, x1:x2]
 		cv2.imwrite(os.path.join(OUTPUT_DIR, f'{img_count}.png'), crop)
