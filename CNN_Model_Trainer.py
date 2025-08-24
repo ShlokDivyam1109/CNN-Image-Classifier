@@ -10,7 +10,7 @@ from PIL import Image
 
 CSV_FILE = 'Data.csv'
 MODEL_FILE = 'model.tflite'
-IMG_SIZE = (64, 64)  # You can change this to match your rectangle size
+IMG_SIZE = (200, 200)  # You can change this to match your rectangle size
 
 def load_data(csv_file, img_size):
 	df = pd.read_csv(csv_file)
@@ -31,6 +31,9 @@ def build_model(num_classes, input_shape):
 		layers.Input(shape=input_shape),
 		layers.Conv2D(32, (3,3), activation='relu'),
 		layers.MaxPooling2D(2,2),
+		layers.Conv2D(64, (3,3), activation='relu'),
+		layers.MaxPooling2D(2,2),
+		layers.Flatten(),
 		layers.Conv2D(64, (3,3), activation='relu'),
 		layers.MaxPooling2D(2,2),
 		layers.Flatten(),

@@ -1,0 +1,2103 @@
+image,class
+./Image_Dataset/1.png,Stone
+./Image_Dataset/2.png,Stone
+./Image_Dataset/3.png,Stone
+./Image_Dataset/4.png,Stone
+./Image_Dataset/5.png,Stone
+./Image_Dataset/6.png,Stone
+./Image_Dataset/7.png,Stone
+./Image_Dataset/8.png,Stone
+./Image_Dataset/9.png,Stone
+./Image_Dataset/10.png,Stone
+./Image_Dataset/11.png,Stone
+./Image_Dataset/12.png,Stone
+./Image_Dataset/13.png,Stone
+./Image_Dataset/14.png,Stone
+./Image_Dataset/15.png,Stone
+./Image_Dataset/16.png,Stone
+./Image_Dataset/17.png,Stone
+./Image_Dataset/18.png,Stone
+./Image_Dataset/19.png,Stone
+./Image_Dataset/20.png,Stone
+./Image_Dataset/21.png,Stone
+./Image_Dataset/22.png,Stone
+./Image_Dataset/23.png,Stone
+./Image_Dataset/24.png,Stone
+./Image_Dataset/25.png,Stone
+./Image_Dataset/26.png,Stone
+./Image_Dataset/27.png,Stone
+./Image_Dataset/28.png,Stone
+./Image_Dataset/29.png,Stone
+./Image_Dataset/30.png,Stone
+./Image_Dataset/31.png,Stone
+./Image_Dataset/32.png,Stone
+./Image_Dataset/33.png,Stone
+./Image_Dataset/34.png,Stone
+./Image_Dataset/35.png,Stone
+./Image_Dataset/36.png,Stone
+./Image_Dataset/37.png,Stone
+./Image_Dataset/38.png,Stone
+./Image_Dataset/39.png,Stone
+./Image_Dataset/40.png,Stone
+./Image_Dataset/41.png,Stone
+./Image_Dataset/42.png,Stone
+./Image_Dataset/43.png,Stone
+./Image_Dataset/44.png,Stone
+./Image_Dataset/45.png,Stone
+./Image_Dataset/46.png,Stone
+./Image_Dataset/47.png,Stone
+./Image_Dataset/48.png,Stone
+./Image_Dataset/49.png,Stone
+./Image_Dataset/50.png,Stone
+./Image_Dataset/51.png,Stone
+./Image_Dataset/52.png,Stone
+./Image_Dataset/53.png,Stone
+./Image_Dataset/54.png,Stone
+./Image_Dataset/55.png,Stone
+./Image_Dataset/56.png,Stone
+./Image_Dataset/57.png,Stone
+./Image_Dataset/58.png,Stone
+./Image_Dataset/59.png,Stone
+./Image_Dataset/60.png,Stone
+./Image_Dataset/61.png,Stone
+./Image_Dataset/62.png,Stone
+./Image_Dataset/63.png,Stone
+./Image_Dataset/64.png,Stone
+./Image_Dataset/65.png,Stone
+./Image_Dataset/66.png,Stone
+./Image_Dataset/67.png,Stone
+./Image_Dataset/68.png,Stone
+./Image_Dataset/69.png,Stone
+./Image_Dataset/70.png,Stone
+./Image_Dataset/71.png,Stone
+./Image_Dataset/72.png,Stone
+./Image_Dataset/73.png,Stone
+./Image_Dataset/74.png,Stone
+./Image_Dataset/75.png,Stone
+./Image_Dataset/76.png,Stone
+./Image_Dataset/77.png,Stone
+./Image_Dataset/78.png,Stone
+./Image_Dataset/79.png,Stone
+./Image_Dataset/80.png,Stone
+./Image_Dataset/81.png,Stone
+./Image_Dataset/82.png,Stone
+./Image_Dataset/83.png,Stone
+./Image_Dataset/84.png,Stone
+./Image_Dataset/85.png,Stone
+./Image_Dataset/86.png,Stone
+./Image_Dataset/87.png,Stone
+./Image_Dataset/88.png,Stone
+./Image_Dataset/89.png,Stone
+./Image_Dataset/90.png,Stone
+./Image_Dataset/91.png,Stone
+./Image_Dataset/92.png,Stone
+./Image_Dataset/93.png,Stone
+./Image_Dataset/94.png,Stone
+./Image_Dataset/95.png,Stone
+./Image_Dataset/96.png,Stone
+./Image_Dataset/97.png,Stone
+./Image_Dataset/98.png,Stone
+./Image_Dataset/99.png,Stone
+./Image_Dataset/100.png,Stone
+./Image_Dataset/101.png,Stone
+./Image_Dataset/102.png,Stone
+./Image_Dataset/103.png,Stone
+./Image_Dataset/104.png,Stone
+./Image_Dataset/105.png,Stone
+./Image_Dataset/106.png,Stone
+./Image_Dataset/107.png,Stone
+./Image_Dataset/108.png,Stone
+./Image_Dataset/109.png,Stone
+./Image_Dataset/110.png,Stone
+./Image_Dataset/111.png,Stone
+./Image_Dataset/112.png,Stone
+./Image_Dataset/113.png,Stone
+./Image_Dataset/114.png,Stone
+./Image_Dataset/115.png,Stone
+./Image_Dataset/116.png,Stone
+./Image_Dataset/117.png,Stone
+./Image_Dataset/118.png,Stone
+./Image_Dataset/119.png,Stone
+./Image_Dataset/120.png,Stone
+./Image_Dataset/121.png,Stone
+./Image_Dataset/122.png,Stone
+./Image_Dataset/123.png,Stone
+./Image_Dataset/124.png,Stone
+./Image_Dataset/125.png,Stone
+./Image_Dataset/126.png,Stone
+./Image_Dataset/127.png,Stone
+./Image_Dataset/128.png,Stone
+./Image_Dataset/129.png,Stone
+./Image_Dataset/130.png,Stone
+./Image_Dataset/131.png,Stone
+./Image_Dataset/132.png,Stone
+./Image_Dataset/133.png,Stone
+./Image_Dataset/134.png,Stone
+./Image_Dataset/135.png,Stone
+./Image_Dataset/136.png,Stone
+./Image_Dataset/137.png,Stone
+./Image_Dataset/138.png,Stone
+./Image_Dataset/139.png,Stone
+./Image_Dataset/140.png,Stone
+./Image_Dataset/141.png,Stone
+./Image_Dataset/142.png,Stone
+./Image_Dataset/143.png,Stone
+./Image_Dataset/144.png,Stone
+./Image_Dataset/145.png,Stone
+./Image_Dataset/146.png,Stone
+./Image_Dataset/147.png,Stone
+./Image_Dataset/148.png,Stone
+./Image_Dataset/149.png,Stone
+./Image_Dataset/150.png,Stone
+./Image_Dataset/151.png,Stone
+./Image_Dataset/152.png,Stone
+./Image_Dataset/153.png,Stone
+./Image_Dataset/154.png,Stone
+./Image_Dataset/155.png,Stone
+./Image_Dataset/156.png,Stone
+./Image_Dataset/157.png,Stone
+./Image_Dataset/158.png,Stone
+./Image_Dataset/159.png,Stone
+./Image_Dataset/160.png,Stone
+./Image_Dataset/161.png,Stone
+./Image_Dataset/162.png,Stone
+./Image_Dataset/163.png,Stone
+./Image_Dataset/164.png,Stone
+./Image_Dataset/165.png,Stone
+./Image_Dataset/166.png,Stone
+./Image_Dataset/167.png,Stone
+./Image_Dataset/168.png,Stone
+./Image_Dataset/169.png,Stone
+./Image_Dataset/170.png,Stone
+./Image_Dataset/171.png,Stone
+./Image_Dataset/172.png,Stone
+./Image_Dataset/173.png,Stone
+./Image_Dataset/174.png,Stone
+./Image_Dataset/175.png,Stone
+./Image_Dataset/176.png,Stone
+./Image_Dataset/177.png,Stone
+./Image_Dataset/178.png,Stone
+./Image_Dataset/179.png,Stone
+./Image_Dataset/180.png,Stone
+./Image_Dataset/181.png,Stone
+./Image_Dataset/182.png,Stone
+./Image_Dataset/183.png,Stone
+./Image_Dataset/184.png,Stone
+./Image_Dataset/185.png,Stone
+./Image_Dataset/186.png,Stone
+./Image_Dataset/187.png,Stone
+./Image_Dataset/188.png,Stone
+./Image_Dataset/189.png,Stone
+./Image_Dataset/190.png,Stone
+./Image_Dataset/191.png,Stone
+./Image_Dataset/192.png,Stone
+./Image_Dataset/193.png,Stone
+./Image_Dataset/194.png,Stone
+./Image_Dataset/195.png,Stone
+./Image_Dataset/196.png,Stone
+./Image_Dataset/197.png,Stone
+./Image_Dataset/198.png,Stone
+./Image_Dataset/199.png,Stone
+./Image_Dataset/200.png,Stone
+./Image_Dataset/201.png,Stone
+./Image_Dataset/202.png,Stone
+./Image_Dataset/203.png,Stone
+./Image_Dataset/204.png,Stone
+./Image_Dataset/205.png,Stone
+./Image_Dataset/206.png,Stone
+./Image_Dataset/207.png,Stone
+./Image_Dataset/208.png,Stone
+./Image_Dataset/209.png,Stone
+./Image_Dataset/210.png,Stone
+./Image_Dataset/211.png,Stone
+./Image_Dataset/212.png,Stone
+./Image_Dataset/213.png,Stone
+./Image_Dataset/214.png,Stone
+./Image_Dataset/215.png,Stone
+./Image_Dataset/216.png,Stone
+./Image_Dataset/217.png,Stone
+./Image_Dataset/218.png,Stone
+./Image_Dataset/219.png,Stone
+./Image_Dataset/220.png,Stone
+./Image_Dataset/221.png,Stone
+./Image_Dataset/222.png,Stone
+./Image_Dataset/223.png,Stone
+./Image_Dataset/224.png,Stone
+./Image_Dataset/225.png,Stone
+./Image_Dataset/226.png,Stone
+./Image_Dataset/227.png,Stone
+./Image_Dataset/228.png,Stone
+./Image_Dataset/229.png,Stone
+./Image_Dataset/230.png,Stone
+./Image_Dataset/231.png,Stone
+./Image_Dataset/232.png,Stone
+./Image_Dataset/233.png,Stone
+./Image_Dataset/234.png,Stone
+./Image_Dataset/235.png,Stone
+./Image_Dataset/236.png,Stone
+./Image_Dataset/237.png,Stone
+./Image_Dataset/238.png,Stone
+./Image_Dataset/239.png,Stone
+./Image_Dataset/240.png,Stone
+./Image_Dataset/241.png,Stone
+./Image_Dataset/242.png,Stone
+./Image_Dataset/243.png,Stone
+./Image_Dataset/244.png,Stone
+./Image_Dataset/245.png,Stone
+./Image_Dataset/246.png,Stone
+./Image_Dataset/247.png,Stone
+./Image_Dataset/248.png,Stone
+./Image_Dataset/249.png,Stone
+./Image_Dataset/250.png,Stone
+./Image_Dataset/251.png,Stone
+./Image_Dataset/252.png,Stone
+./Image_Dataset/253.png,Stone
+./Image_Dataset/254.png,Stone
+./Image_Dataset/255.png,Stone
+./Image_Dataset/256.png,Stone
+./Image_Dataset/257.png,Stone
+./Image_Dataset/258.png,Stone
+./Image_Dataset/259.png,Stone
+./Image_Dataset/260.png,Stone
+./Image_Dataset/261.png,Stone
+./Image_Dataset/262.png,Stone
+./Image_Dataset/263.png,Stone
+./Image_Dataset/264.png,Stone
+./Image_Dataset/265.png,Stone
+./Image_Dataset/266.png,Stone
+./Image_Dataset/267.png,Stone
+./Image_Dataset/268.png,Stone
+./Image_Dataset/269.png,Stone
+./Image_Dataset/270.png,Stone
+./Image_Dataset/271.png,Stone
+./Image_Dataset/272.png,Stone
+./Image_Dataset/273.png,Stone
+./Image_Dataset/274.png,Stone
+./Image_Dataset/275.png,Stone
+./Image_Dataset/276.png,Stone
+./Image_Dataset/277.png,Stone
+./Image_Dataset/278.png,Stone
+./Image_Dataset/279.png,Stone
+./Image_Dataset/280.png,Stone
+./Image_Dataset/281.png,Stone
+./Image_Dataset/282.png,Stone
+./Image_Dataset/283.png,Stone
+./Image_Dataset/284.png,Stone
+./Image_Dataset/285.png,Stone
+./Image_Dataset/286.png,Stone
+./Image_Dataset/287.png,Stone
+./Image_Dataset/288.png,Stone
+./Image_Dataset/289.png,Stone
+./Image_Dataset/290.png,Stone
+./Image_Dataset/291.png,Stone
+./Image_Dataset/292.png,Stone
+./Image_Dataset/293.png,Stone
+./Image_Dataset/294.png,Stone
+./Image_Dataset/295.png,Stone
+./Image_Dataset/296.png,Stone
+./Image_Dataset/297.png,Stone
+./Image_Dataset/298.png,Stone
+./Image_Dataset/299.png,Stone
+./Image_Dataset/300.png,Stone
+./Image_Dataset/301.png,Stone
+./Image_Dataset/302.png,Stone
+./Image_Dataset/303.png,Stone
+./Image_Dataset/304.png,Stone
+./Image_Dataset/305.png,Stone
+./Image_Dataset/306.png,Stone
+./Image_Dataset/307.png,Stone
+./Image_Dataset/308.png,Stone
+./Image_Dataset/309.png,Stone
+./Image_Dataset/310.png,Stone
+./Image_Dataset/311.png,Stone
+./Image_Dataset/312.png,Stone
+./Image_Dataset/313.png,Stone
+./Image_Dataset/314.png,Stone
+./Image_Dataset/315.png,Stone
+./Image_Dataset/316.png,Stone
+./Image_Dataset/317.png,Stone
+./Image_Dataset/318.png,Stone
+./Image_Dataset/319.png,Stone
+./Image_Dataset/320.png,Stone
+./Image_Dataset/321.png,Stone
+./Image_Dataset/322.png,Stone
+./Image_Dataset/323.png,Stone
+./Image_Dataset/324.png,Stone
+./Image_Dataset/325.png,Stone
+./Image_Dataset/326.png,Stone
+./Image_Dataset/327.png,Stone
+./Image_Dataset/328.png,Stone
+./Image_Dataset/329.png,Stone
+./Image_Dataset/330.png,Stone
+./Image_Dataset/331.png,Stone
+./Image_Dataset/332.png,Stone
+./Image_Dataset/333.png,Stone
+./Image_Dataset/334.png,Stone
+./Image_Dataset/335.png,Stone
+./Image_Dataset/336.png,Stone
+./Image_Dataset/337.png,Stone
+./Image_Dataset/338.png,Stone
+./Image_Dataset/339.png,Stone
+./Image_Dataset/340.png,Stone
+./Image_Dataset/341.png,Stone
+./Image_Dataset/342.png,Stone
+./Image_Dataset/343.png,Stone
+./Image_Dataset/344.png,Stone
+./Image_Dataset/345.png,Stone
+./Image_Dataset/346.png,Stone
+./Image_Dataset/347.png,Stone
+./Image_Dataset/348.png,Stone
+./Image_Dataset/349.png,Stone
+./Image_Dataset/350.png,Stone
+./Image_Dataset/351.png,Stone
+./Image_Dataset/352.png,Stone
+./Image_Dataset/353.png,Stone
+./Image_Dataset/354.png,Stone
+./Image_Dataset/355.png,Stone
+./Image_Dataset/356.png,Stone
+./Image_Dataset/357.png,Stone
+./Image_Dataset/358.png,Stone
+./Image_Dataset/359.png,Stone
+./Image_Dataset/360.png,Stone
+./Image_Dataset/361.png,Stone
+./Image_Dataset/362.png,Stone
+./Image_Dataset/363.png,Stone
+./Image_Dataset/364.png,Stone
+./Image_Dataset/365.png,Stone
+./Image_Dataset/366.png,Stone
+./Image_Dataset/367.png,Stone
+./Image_Dataset/368.png,Stone
+./Image_Dataset/369.png,Stone
+./Image_Dataset/370.png,Stone
+./Image_Dataset/371.png,Stone
+./Image_Dataset/372.png,Stone
+./Image_Dataset/373.png,Stone
+./Image_Dataset/374.png,Stone
+./Image_Dataset/375.png,Stone
+./Image_Dataset/376.png,Stone
+./Image_Dataset/377.png,Stone
+./Image_Dataset/378.png,Stone
+./Image_Dataset/379.png,Stone
+./Image_Dataset/380.png,Stone
+./Image_Dataset/381.png,Stone
+./Image_Dataset/382.png,Stone
+./Image_Dataset/383.png,Stone
+./Image_Dataset/384.png,Stone
+./Image_Dataset/385.png,Stone
+./Image_Dataset/386.png,Stone
+./Image_Dataset/387.png,Stone
+./Image_Dataset/388.png,Stone
+./Image_Dataset/389.png,Stone
+./Image_Dataset/390.png,Stone
+./Image_Dataset/391.png,Stone
+./Image_Dataset/392.png,Stone
+./Image_Dataset/393.png,Stone
+./Image_Dataset/394.png,Stone
+./Image_Dataset/395.png,Stone
+./Image_Dataset/396.png,Stone
+./Image_Dataset/397.png,Stone
+./Image_Dataset/398.png,Stone
+./Image_Dataset/399.png,Stone
+./Image_Dataset/400.png,Stone
+./Image_Dataset/401.png,Stone
+./Image_Dataset/402.png,Stone
+./Image_Dataset/403.png,Stone
+./Image_Dataset/404.png,Stone
+./Image_Dataset/405.png,Stone
+./Image_Dataset/406.png,Stone
+./Image_Dataset/407.png,Stone
+./Image_Dataset/408.png,Stone
+./Image_Dataset/409.png,Stone
+./Image_Dataset/410.png,Stone
+./Image_Dataset/411.png,Stone
+./Image_Dataset/412.png,Stone
+./Image_Dataset/413.png,Stone
+./Image_Dataset/414.png,Stone
+./Image_Dataset/415.png,Stone
+./Image_Dataset/416.png,Stone
+./Image_Dataset/417.png,Stone
+./Image_Dataset/418.png,Stone
+./Image_Dataset/419.png,Stone
+./Image_Dataset/420.png,Stone
+./Image_Dataset/421.png,Stone
+./Image_Dataset/422.png,Stone
+./Image_Dataset/423.png,Stone
+./Image_Dataset/424.png,Stone
+./Image_Dataset/425.png,Stone
+./Image_Dataset/426.png,Stone
+./Image_Dataset/427.png,Stone
+./Image_Dataset/428.png,Stone
+./Image_Dataset/429.png,Stone
+./Image_Dataset/430.png,Stone
+./Image_Dataset/431.png,Stone
+./Image_Dataset/432.png,Stone
+./Image_Dataset/433.png,Stone
+./Image_Dataset/434.png,Stone
+./Image_Dataset/435.png,Stone
+./Image_Dataset/436.png,Stone
+./Image_Dataset/437.png,Stone
+./Image_Dataset/438.png,Stone
+./Image_Dataset/439.png,Stone
+./Image_Dataset/440.png,Stone
+./Image_Dataset/441.png,Stone
+./Image_Dataset/442.png,Stone
+./Image_Dataset/443.png,Stone
+./Image_Dataset/444.png,Stone
+./Image_Dataset/445.png,Stone
+./Image_Dataset/446.png,Stone
+./Image_Dataset/447.png,Stone
+./Image_Dataset/448.png,Stone
+./Image_Dataset/449.png,Stone
+./Image_Dataset/450.png,Stone
+./Image_Dataset/451.png,Stone
+./Image_Dataset/452.png,Stone
+./Image_Dataset/453.png,Stone
+./Image_Dataset/454.png,Stone
+./Image_Dataset/455.png,Stone
+./Image_Dataset/456.png,Stone
+./Image_Dataset/457.png,Stone
+./Image_Dataset/458.png,Stone
+./Image_Dataset/459.png,Stone
+./Image_Dataset/460.png,Stone
+./Image_Dataset/461.png,Stone
+./Image_Dataset/462.png,Stone
+./Image_Dataset/463.png,Stone
+./Image_Dataset/464.png,Stone
+./Image_Dataset/465.png,Stone
+./Image_Dataset/466.png,Stone
+./Image_Dataset/467.png,Stone
+./Image_Dataset/468.png,Stone
+./Image_Dataset/469.png,Stone
+./Image_Dataset/470.png,Stone
+./Image_Dataset/471.png,Stone
+./Image_Dataset/472.png,Stone
+./Image_Dataset/473.png,Stone
+./Image_Dataset/474.png,Stone
+./Image_Dataset/475.png,Stone
+./Image_Dataset/476.png,Stone
+./Image_Dataset/477.png,Stone
+./Image_Dataset/478.png,Stone
+./Image_Dataset/479.png,Stone
+./Image_Dataset/480.png,Stone
+./Image_Dataset/481.png,Stone
+./Image_Dataset/482.png,Stone
+./Image_Dataset/483.png,Stone
+./Image_Dataset/484.png,Stone
+./Image_Dataset/485.png,Stone
+./Image_Dataset/486.png,Stone
+./Image_Dataset/487.png,Stone
+./Image_Dataset/488.png,Stone
+./Image_Dataset/489.png,Stone
+./Image_Dataset/490.png,Stone
+./Image_Dataset/491.png,Stone
+./Image_Dataset/492.png,Stone
+./Image_Dataset/493.png,Stone
+./Image_Dataset/494.png,Stone
+./Image_Dataset/495.png,Stone
+./Image_Dataset/496.png,Stone
+./Image_Dataset/497.png,Stone
+./Image_Dataset/498.png,Stone
+./Image_Dataset/499.png,Stone
+./Image_Dataset/500.png,Stone
+./Image_Dataset/501.png,Stone
+./Image_Dataset/502.png,Stone
+./Image_Dataset/503.png,Stone
+./Image_Dataset/504.png,Stone
+./Image_Dataset/505.png,Stone
+./Image_Dataset/506.png,Stone
+./Image_Dataset/507.png,Stone
+./Image_Dataset/508.png,Stone
+./Image_Dataset/509.png,Stone
+./Image_Dataset/510.png,Stone
+./Image_Dataset/511.png,Stone
+./Image_Dataset/512.png,Stone
+./Image_Dataset/513.png,Stone
+./Image_Dataset/514.png,Stone
+./Image_Dataset/515.png,Stone
+./Image_Dataset/516.png,Stone
+./Image_Dataset/517.png,Stone
+./Image_Dataset/518.png,Stone
+./Image_Dataset/519.png,Stone
+./Image_Dataset/520.png,Stone
+./Image_Dataset/521.png,Stone
+./Image_Dataset/522.png,Stone
+./Image_Dataset/523.png,Stone
+./Image_Dataset/524.png,Stone
+./Image_Dataset/525.png,Stone
+./Image_Dataset/526.png,Stone
+./Image_Dataset/527.png,Stone
+./Image_Dataset/528.png,Stone
+./Image_Dataset/529.png,Stone
+./Image_Dataset/530.png,Stone
+./Image_Dataset/531.png,Stone
+./Image_Dataset/532.png,Stone
+./Image_Dataset/533.png,Stone
+./Image_Dataset/534.png,Stone
+./Image_Dataset/535.png,Stone
+./Image_Dataset/536.png,Stone
+./Image_Dataset/537.png,Stone
+./Image_Dataset/538.png,Stone
+./Image_Dataset/539.png,Stone
+./Image_Dataset/540.png,Stone
+./Image_Dataset/541.png,Stone
+./Image_Dataset/542.png,Stone
+./Image_Dataset/543.png,Stone
+./Image_Dataset/544.png,Stone
+./Image_Dataset/545.png,Stone
+./Image_Dataset/546.png,Stone
+./Image_Dataset/547.png,Stone
+./Image_Dataset/548.png,Stone
+./Image_Dataset/549.png,Stone
+./Image_Dataset/550.png,Stone
+./Image_Dataset/551.png,Stone
+./Image_Dataset/552.png,Stone
+./Image_Dataset/553.png,Stone
+./Image_Dataset/554.png,Stone
+./Image_Dataset/555.png,Stone
+./Image_Dataset/556.png,Stone
+./Image_Dataset/557.png,Stone
+./Image_Dataset/558.png,Stone
+./Image_Dataset/559.png,Stone
+./Image_Dataset/560.png,Stone
+./Image_Dataset/561.png,Stone
+./Image_Dataset/562.png,Stone
+./Image_Dataset/563.png,Stone
+./Image_Dataset/564.png,Stone
+./Image_Dataset/565.png,Stone
+./Image_Dataset/566.png,Stone
+./Image_Dataset/567.png,Stone
+./Image_Dataset/568.png,Stone
+./Image_Dataset/569.png,Stone
+./Image_Dataset/570.png,Stone
+./Image_Dataset/571.png,Stone
+./Image_Dataset/572.png,Stone
+./Image_Dataset/573.png,Stone
+./Image_Dataset/574.png,Stone
+./Image_Dataset/575.png,Stone
+./Image_Dataset/576.png,Stone
+./Image_Dataset/577.png,Stone
+./Image_Dataset/578.png,Stone
+./Image_Dataset/579.png,Stone
+./Image_Dataset/580.png,Stone
+./Image_Dataset/581.png,Stone
+./Image_Dataset/582.png,Stone
+./Image_Dataset/583.png,Stone
+./Image_Dataset/584.png,Stone
+./Image_Dataset/585.png,Stone
+./Image_Dataset/586.png,Stone
+./Image_Dataset/587.png,Stone
+./Image_Dataset/588.png,Stone
+./Image_Dataset/589.png,Stone
+./Image_Dataset/590.png,Stone
+./Image_Dataset/591.png,Stone
+./Image_Dataset/592.png,Stone
+./Image_Dataset/593.png,Stone
+./Image_Dataset/594.png,Stone
+./Image_Dataset/595.png,Stone
+./Image_Dataset/596.png,Stone
+./Image_Dataset/597.png,Stone
+./Image_Dataset/598.png,Stone
+./Image_Dataset/599.png,Stone
+./Image_Dataset/600.png,Stone
+./Image_Dataset/601.png,Stone
+./Image_Dataset/602.png,Stone
+./Image_Dataset/603.png,Stone
+./Image_Dataset/604.png,Stone
+./Image_Dataset/605.png,Stone
+./Image_Dataset/606.png,Stone
+./Image_Dataset/607.png,Stone
+./Image_Dataset/608.png,Stone
+./Image_Dataset/609.png,Stone
+./Image_Dataset/610.png,Stone
+./Image_Dataset/611.png,Stone
+./Image_Dataset/612.png,Stone
+./Image_Dataset/613.png,Stone
+./Image_Dataset/614.png,Stone
+./Image_Dataset/615.png,Stone
+./Image_Dataset/616.png,Stone
+./Image_Dataset/617.png,Stone
+./Image_Dataset/618.png,Stone
+./Image_Dataset/619.png,Stone
+./Image_Dataset/620.png,Stone
+./Image_Dataset/621.png,Stone
+./Image_Dataset/622.png,Stone
+./Image_Dataset/623.png,Stone
+./Image_Dataset/624.png,Stone
+./Image_Dataset/625.png,Stone
+./Image_Dataset/626.png,Stone
+./Image_Dataset/627.png,Stone
+./Image_Dataset/628.png,Stone
+./Image_Dataset/629.png,Stone
+./Image_Dataset/630.png,Stone
+./Image_Dataset/631.png,Stone
+./Image_Dataset/632.png,Stone
+./Image_Dataset/633.png,Stone
+./Image_Dataset/634.png,Stone
+./Image_Dataset/635.png,Stone
+./Image_Dataset/636.png,Stone
+./Image_Dataset/637.png,Stone
+./Image_Dataset/638.png,Stone
+./Image_Dataset/639.png,Stone
+./Image_Dataset/640.png,Stone
+./Image_Dataset/641.png,Stone
+./Image_Dataset/642.png,Stone
+./Image_Dataset/643.png,Stone
+./Image_Dataset/644.png,Stone
+./Image_Dataset/645.png,Stone
+./Image_Dataset/646.png,Stone
+./Image_Dataset/647.png,Stone
+./Image_Dataset/648.png,Stone
+./Image_Dataset/649.png,Stone
+./Image_Dataset/650.png,Stone
+./Image_Dataset/651.png,Stone
+./Image_Dataset/652.png,Stone
+./Image_Dataset/653.png,Stone
+./Image_Dataset/654.png,Stone
+./Image_Dataset/655.png,Stone
+./Image_Dataset/656.png,Stone
+./Image_Dataset/657.png,Stone
+./Image_Dataset/658.png,Stone
+./Image_Dataset/659.png,Stone
+./Image_Dataset/660.png,Stone
+./Image_Dataset/661.png,Stone
+./Image_Dataset/662.png,Stone
+./Image_Dataset/663.png,Stone
+./Image_Dataset/664.png,Stone
+./Image_Dataset/665.png,Stone
+./Image_Dataset/666.png,Stone
+./Image_Dataset/667.png,Stone
+./Image_Dataset/668.png,Stone
+./Image_Dataset/669.png,Stone
+./Image_Dataset/670.png,Stone
+./Image_Dataset/671.png,Stone
+./Image_Dataset/672.png,Stone
+./Image_Dataset/673.png,Stone
+./Image_Dataset/674.png,Stone
+./Image_Dataset/675.png,Stone
+./Image_Dataset/676.png,Stone
+./Image_Dataset/677.png,Stone
+./Image_Dataset/678.png,Stone
+./Image_Dataset/679.png,Stone
+./Image_Dataset/680.png,Stone
+./Image_Dataset/681.png,Stone
+./Image_Dataset/682.png,Stone
+./Image_Dataset/683.png,Stone
+./Image_Dataset/684.png,Stone
+./Image_Dataset/685.png,Stone
+./Image_Dataset/686.png,Stone
+./Image_Dataset/687.png,Stone
+./Image_Dataset/688.png,Stone
+./Image_Dataset/689.png,Stone
+./Image_Dataset/690.png,Stone
+./Image_Dataset/691.png,Stone
+./Image_Dataset/692.png,Stone
+./Image_Dataset/693.png,Stone
+./Image_Dataset/694.png,Stone
+./Image_Dataset/695.png,Stone
+./Image_Dataset/696.png,Stone
+./Image_Dataset/697.png,Stone
+./Image_Dataset/698.png,Stone
+./Image_Dataset/699.png,Stone
+./Image_Dataset/700.png,Stone
+./Image_Dataset/701.png,Stone
+./Image_Dataset/702.png,Stone
+./Image_Dataset/703.png,Stone
+./Image_Dataset/704.png,Stone
+./Image_Dataset/705.png,Stone
+./Image_Dataset/706.png,Stone
+./Image_Dataset/707.png,Stone
+./Image_Dataset/708.png,Stone
+./Image_Dataset/709.png,Stone
+./Image_Dataset/710.png,Stone
+./Image_Dataset/711.png,Stone
+./Image_Dataset/712.png,Stone
+./Image_Dataset/713.png,Stone
+./Image_Dataset/714.png,Stone
+./Image_Dataset/715.png,Stone
+./Image_Dataset/716.png,Stone
+./Image_Dataset/717.png,Stone
+./Image_Dataset/718.png,Stone
+./Image_Dataset/719.png,Stone
+./Image_Dataset/720.png,Stone
+./Image_Dataset/721.png,Stone
+./Image_Dataset/722.png,Stone
+./Image_Dataset/723.png,Stone
+./Image_Dataset/724.png,Stone
+./Image_Dataset/725.png,Stone
+./Image_Dataset/726.png,Stone
+./Image_Dataset/727.png,Stone
+./Image_Dataset/728.png,Stone
+./Image_Dataset/729.png,Stone
+./Image_Dataset/730.png,Stone
+./Image_Dataset/731.png,Stone
+./Image_Dataset/732.png,Stone
+./Image_Dataset/733.png,Stone
+./Image_Dataset/734.png,Stone
+./Image_Dataset/735.png,Stone
+./Image_Dataset/736.png,Stone
+./Image_Dataset/737.png,Stone
+./Image_Dataset/738.png,Stone
+./Image_Dataset/739.png,Stone
+./Image_Dataset/740.png,Stone
+./Image_Dataset/741.png,Stone
+./Image_Dataset/742.png,Stone
+./Image_Dataset/743.png,Stone
+./Image_Dataset/744.png,Stone
+./Image_Dataset/745.png,Stone
+./Image_Dataset/746.png,Stone
+./Image_Dataset/747.png,Stone
+./Image_Dataset/748.png,Stone
+./Image_Dataset/749.png,Stone
+./Image_Dataset/750.png,Stone
+./Image_Dataset/751.png,Stone
+./Image_Dataset/752.png,Stone
+./Image_Dataset/753.png,Stone
+./Image_Dataset/754.png,Stone
+./Image_Dataset/755.png,Stone
+./Image_Dataset/756.png,Stone
+./Image_Dataset/757.png,Stone
+./Image_Dataset/758.png,Stone
+./Image_Dataset/759.png,Stone
+./Image_Dataset/760.png,Stone
+./Image_Dataset/761.png,Stone
+./Image_Dataset/762.png,Stone
+./Image_Dataset/763.png,Stone
+./Image_Dataset/764.png,Stone
+./Image_Dataset/765.png,Stone
+./Image_Dataset/766.png,Stone
+./Image_Dataset/767.png,Stone
+./Image_Dataset/768.png,Stone
+./Image_Dataset/769.png,Stone
+./Image_Dataset/770.png,Stone
+./Image_Dataset/771.png,Stone
+./Image_Dataset/772.png,Stone
+./Image_Dataset/773.png,Stone
+./Image_Dataset/774.png,Stone
+./Image_Dataset/775.png,Stone
+./Image_Dataset/776.png,Stone
+./Image_Dataset/777.png,Stone
+./Image_Dataset/778.png,Stone
+./Image_Dataset/779.png,Stone
+./Image_Dataset/780.png,Stone
+./Image_Dataset/781.png,Stone
+./Image_Dataset/782.png,Stone
+./Image_Dataset/783.png,Stone
+./Image_Dataset/784.png,Stone
+./Image_Dataset/785.png,Stone
+./Image_Dataset/786.png,Stone
+./Image_Dataset/787.png,Stone
+./Image_Dataset/788.png,Stone
+./Image_Dataset/789.png,Stone
+./Image_Dataset/790.png,Stone
+./Image_Dataset/791.png,Stone
+./Image_Dataset/792.png,Stone
+./Image_Dataset/793.png,Stone
+./Image_Dataset/794.png,Stone
+./Image_Dataset/795.png,Stone
+./Image_Dataset/796.png,Stone
+./Image_Dataset/797.png,Stone
+./Image_Dataset/798.png,Stone
+./Image_Dataset/799.png,Stone
+./Image_Dataset/800.png,Stone
+./Image_Dataset/801.png,Stone
+./Image_Dataset/802.png,Stone
+./Image_Dataset/803.png,Stone
+./Image_Dataset/804.png,Stone
+./Image_Dataset/805.png,Stone
+./Image_Dataset/806.png,Stone
+./Image_Dataset/807.png,Stone
+./Image_Dataset/808.png,Stone
+./Image_Dataset/809.png,Stone
+./Image_Dataset/810.png,Stone
+./Image_Dataset/811.png,Stone
+./Image_Dataset/812.png,Stone
+./Image_Dataset/813.png,Stone
+./Image_Dataset/814.png,Stone
+./Image_Dataset/815.png,Stone
+./Image_Dataset/816.png,Stone
+./Image_Dataset/817.png,Stone
+./Image_Dataset/818.png,Stone
+./Image_Dataset/819.png,Stone
+./Image_Dataset/820.png,Stone
+./Image_Dataset/821.png,Stone
+./Image_Dataset/822.png,Stone
+./Image_Dataset/823.png,Stone
+./Image_Dataset/824.png,Stone
+./Image_Dataset/825.png,Stone
+./Image_Dataset/826.png,Stone
+./Image_Dataset/827.png,Stone
+./Image_Dataset/828.png,Stone
+./Image_Dataset/829.png,Stone
+./Image_Dataset/830.png,Stone
+./Image_Dataset/831.png,Stone
+./Image_Dataset/832.png,Stone
+./Image_Dataset/833.png,Stone
+./Image_Dataset/834.png,Stone
+./Image_Dataset/835.png,Stone
+./Image_Dataset/836.png,Stone
+./Image_Dataset/837.png,Stone
+./Image_Dataset/838.png,Stone
+./Image_Dataset/839.png,Stone
+./Image_Dataset/840.png,Stone
+./Image_Dataset/841.png,Stone
+./Image_Dataset/842.png,Stone
+./Image_Dataset/843.png,Stone
+./Image_Dataset/844.png,Stone
+./Image_Dataset/845.png,Stone
+./Image_Dataset/846.png,Stone
+./Image_Dataset/847.png,Stone
+./Image_Dataset/848.png,Stone
+./Image_Dataset/849.png,Stone
+./Image_Dataset/850.png,Stone
+./Image_Dataset/851.png,Stone
+./Image_Dataset/852.png,Stone
+./Image_Dataset/853.png,Stone
+./Image_Dataset/854.png,Stone
+./Image_Dataset/855.png,Stone
+./Image_Dataset/856.png,Stone
+./Image_Dataset/857.png,Stone
+./Image_Dataset/858.png,Stone
+./Image_Dataset/859.png,Stone
+./Image_Dataset/860.png,Stone
+./Image_Dataset/861.png,Stone
+./Image_Dataset/862.png,Stone
+./Image_Dataset/863.png,Stone
+./Image_Dataset/864.png,Stone
+./Image_Dataset/865.png,Stone
+./Image_Dataset/866.png,Stone
+./Image_Dataset/867.png,Stone
+./Image_Dataset/868.png,Stone
+./Image_Dataset/869.png,Stone
+./Image_Dataset/870.png,Stone
+./Image_Dataset/871.png,Stone
+./Image_Dataset/872.png,Stone
+./Image_Dataset/873.png,Stone
+./Image_Dataset/874.png,Stone
+./Image_Dataset/875.png,Stone
+./Image_Dataset/876.png,Stone
+./Image_Dataset/877.png,Stone
+./Image_Dataset/878.png,Stone
+./Image_Dataset/879.png,Stone
+./Image_Dataset/880.png,Stone
+./Image_Dataset/881.png,Stone
+./Image_Dataset/882.png,Stone
+./Image_Dataset/883.png,Stone
+./Image_Dataset/884.png,Stone
+./Image_Dataset/885.png,Stone
+./Image_Dataset/886.png,Stone
+./Image_Dataset/887.png,Stone
+./Image_Dataset/888.png,Stone
+./Image_Dataset/889.png,Stone
+./Image_Dataset/890.png,Stone
+./Image_Dataset/891.png,Stone
+./Image_Dataset/892.png,Stone
+./Image_Dataset/893.png,Stone
+./Image_Dataset/894.png,Stone
+./Image_Dataset/895.png,Stone
+./Image_Dataset/896.png,Stone
+./Image_Dataset/897.png,Stone
+./Image_Dataset/898.png,Stone
+./Image_Dataset/899.png,Stone
+./Image_Dataset/900.png,Stone
+./Image_Dataset/901.png,Stone
+./Image_Dataset/902.png,Stone
+./Image_Dataset/903.png,Stone
+./Image_Dataset/904.png,Stone
+./Image_Dataset/905.png,Stone
+./Image_Dataset/906.png,Stone
+./Image_Dataset/907.png,Stone
+./Image_Dataset/908.png,Stone
+./Image_Dataset/909.png,Stone
+./Image_Dataset/910.png,Stone
+./Image_Dataset/911.png,Stone
+./Image_Dataset/912.png,Stone
+./Image_Dataset/913.png,Stone
+./Image_Dataset/914.png,Stone
+./Image_Dataset/915.png,Stone
+./Image_Dataset/916.png,Stone
+./Image_Dataset/917.png,Stone
+./Image_Dataset/918.png,Stone
+./Image_Dataset/919.png,Stone
+./Image_Dataset/920.png,Stone
+./Image_Dataset/921.png,Stone
+./Image_Dataset/922.png,Stone
+./Image_Dataset/923.png,Stone
+./Image_Dataset/924.png,Stone
+./Image_Dataset/925.png,Stone
+./Image_Dataset/926.png,Stone
+./Image_Dataset/927.png,Stone
+./Image_Dataset/928.png,Stone
+./Image_Dataset/929.png,Stone
+./Image_Dataset/930.png,Stone
+./Image_Dataset/931.png,Stone
+./Image_Dataset/932.png,Stone
+./Image_Dataset/933.png,Stone
+./Image_Dataset/934.png,Stone
+./Image_Dataset/935.png,Stone
+./Image_Dataset/936.png,Stone
+./Image_Dataset/937.png,Stone
+./Image_Dataset/938.png,Stone
+./Image_Dataset/939.png,Stone
+./Image_Dataset/940.png,Stone
+./Image_Dataset/941.png,Stone
+./Image_Dataset/942.png,Stone
+./Image_Dataset/943.png,Stone
+./Image_Dataset/944.png,Stone
+./Image_Dataset/945.png,Stone
+./Image_Dataset/946.png,Stone
+./Image_Dataset/947.png,Stone
+./Image_Dataset/948.png,Stone
+./Image_Dataset/949.png,Stone
+./Image_Dataset/950.png,Stone
+./Image_Dataset/951.png,Stone
+./Image_Dataset/952.png,Stone
+./Image_Dataset/953.png,Stone
+./Image_Dataset/954.png,Stone
+./Image_Dataset/955.png,Stone
+./Image_Dataset/956.png,Stone
+./Image_Dataset/957.png,Stone
+./Image_Dataset/958.png,Stone
+./Image_Dataset/959.png,Stone
+./Image_Dataset/960.png,Stone
+./Image_Dataset/961.png,Stone
+./Image_Dataset/962.png,Stone
+./Image_Dataset/963.png,Stone
+./Image_Dataset/964.png,Stone
+./Image_Dataset/965.png,Stone
+./Image_Dataset/966.png,Stone
+./Image_Dataset/967.png,Stone
+./Image_Dataset/968.png,Stone
+./Image_Dataset/969.png,Stone
+./Image_Dataset/970.png,Stone
+./Image_Dataset/971.png,Stone
+./Image_Dataset/972.png,Stone
+./Image_Dataset/973.png,Stone
+./Image_Dataset/974.png,Stone
+./Image_Dataset/975.png,Stone
+./Image_Dataset/976.png,Stone
+./Image_Dataset/977.png,Stone
+./Image_Dataset/978.png,Stone
+./Image_Dataset/979.png,Stone
+./Image_Dataset/980.png,Stone
+./Image_Dataset/981.png,Stone
+./Image_Dataset/982.png,Stone
+./Image_Dataset/983.png,Stone
+./Image_Dataset/984.png,Stone
+./Image_Dataset/985.png,Stone
+./Image_Dataset/986.png,Stone
+./Image_Dataset/987.png,Stone
+./Image_Dataset/988.png,Stone
+./Image_Dataset/989.png,Stone
+./Image_Dataset/990.png,Stone
+./Image_Dataset/991.png,Stone
+./Image_Dataset/992.png,Stone
+./Image_Dataset/993.png,Stone
+./Image_Dataset/994.png,Stone
+./Image_Dataset/995.png,Stone
+./Image_Dataset/996.png,Stone
+./Image_Dataset/997.png,Stone
+./Image_Dataset/998.png,Stone
+./Image_Dataset/999.png,Stone
+./Image_Dataset/1000.png,Stone
+./Image_Dataset/1001.png,Stone
+./Image_Dataset/1002.png,Stone
+./Image_Dataset/1003.png,Stone
+./Image_Dataset/1004.png,Stone
+./Image_Dataset/1005.png,Stone
+./Image_Dataset/1006.png,Stone
+./Image_Dataset/1007.png,Stone
+./Image_Dataset/1008.png,Stone
+./Image_Dataset/1009.png,Stone
+./Image_Dataset/1010.png,Stone
+./Image_Dataset/1011.png,Stone
+./Image_Dataset/1012.png,Stone
+./Image_Dataset/1013.png,Stone
+./Image_Dataset/1014.png,Stone
+./Image_Dataset/1015.png,Stone
+./Image_Dataset/1016.png,Stone
+./Image_Dataset/1017.png,Stone
+./Image_Dataset/1018.png,Stone
+./Image_Dataset/1019.png,Stone
+./Image_Dataset/1020.png,Stone
+./Image_Dataset/1021.png,Stone
+./Image_Dataset/1022.png,Stone
+./Image_Dataset/1023.png,Stone
+./Image_Dataset/1024.png,Stone
+./Image_Dataset/1025.png,Stone
+./Image_Dataset/1026.png,Stone
+./Image_Dataset/1027.png,Stone
+./Image_Dataset/1028.png,Stone
+./Image_Dataset/1029.png,Stone
+./Image_Dataset/1030.png,Stone
+./Image_Dataset/1031.png,Stone
+./Image_Dataset/1032.png,Stone
+./Image_Dataset/1033.png,Stone
+./Image_Dataset/1034.png,Stone
+./Image_Dataset/1035.png,Stone
+./Image_Dataset/1036.png,Stone
+./Image_Dataset/1037.png,Stone
+./Image_Dataset/1038.png,Stone
+./Image_Dataset/1039.png,Stone
+./Image_Dataset/1040.png,Stone
+./Image_Dataset/1041.png,Stone
+./Image_Dataset/1042.png,Stone
+./Image_Dataset/1043.png,Stone
+./Image_Dataset/1044.png,Stone
+./Image_Dataset/1045.png,Stone
+./Image_Dataset/1046.png,Stone
+./Image_Dataset/1047.png,Stone
+./Image_Dataset/1048.png,Stone
+./Image_Dataset/1049.png,Stone
+./Image_Dataset/1050.png,Stone
+./Image_Dataset/1051.png,Stone
+./Image_Dataset/1052.png,Stone
+./Image_Dataset/1053.png,Stone
+./Image_Dataset/1054.png,Stone
+./Image_Dataset/1055.png,Stone
+./Image_Dataset/1056.png,Stone
+./Image_Dataset/1057.png,Stone
+./Image_Dataset/1058.png,Stone
+./Image_Dataset/1059.png,Stone
+./Image_Dataset/1060.png,Stone
+./Image_Dataset/1061.png,Stone
+./Image_Dataset/1062.png,Stone
+./Image_Dataset/1063.png,Stone
+./Image_Dataset/1064.png,Stone
+./Image_Dataset/1065.png,Stone
+./Image_Dataset/1066.png,Stone
+./Image_Dataset/1067.png,Stone
+./Image_Dataset/1068.png,Stone
+./Image_Dataset/1069.png,Stone
+./Image_Dataset/1070.png,Stone
+./Image_Dataset/1071.png,Stone
+./Image_Dataset/1072.png,Stone
+./Image_Dataset/1073.png,Stone
+./Image_Dataset/1074.png,Stone
+./Image_Dataset/1075.png,Stone
+./Image_Dataset/1076.png,Stone
+./Image_Dataset/1077.png,Stone
+./Image_Dataset/1078.png,Stone
+./Image_Dataset/1079.png,Stone
+./Image_Dataset/1080.png,Stone
+./Image_Dataset/1081.png,Stone
+./Image_Dataset/1082.png,Stone
+./Image_Dataset/1083.png,Stone
+./Image_Dataset/1084.png,Stone
+./Image_Dataset/1085.png,Stone
+./Image_Dataset/1086.png,Stone
+./Image_Dataset/1087.png,Stone
+./Image_Dataset/1088.png,Stone
+./Image_Dataset/1089.png,Stone
+./Image_Dataset/1090.png,Stone
+./Image_Dataset/1091.png,Stone
+./Image_Dataset/1092.png,Stone
+./Image_Dataset/1093.png,Stone
+./Image_Dataset/1094.png,Stone
+./Image_Dataset/1095.png,Stone
+./Image_Dataset/1096.png,Stone
+./Image_Dataset/1097.png,Stone
+./Image_Dataset/1098.png,Stone
+./Image_Dataset/1099.png,Stone
+./Image_Dataset/1100.png,Stone
+./Image_Dataset/1101.png,Stone
+./Image_Dataset/1102.png,Stone
+./Image_Dataset/1103.png,Stone
+./Image_Dataset/1104.png,Stone
+./Image_Dataset/1105.png,Stone
+./Image_Dataset/1106.png,Stone
+./Image_Dataset/1107.png,Stone
+./Image_Dataset/1108.png,Stone
+./Image_Dataset/1109.png,Stone
+./Image_Dataset/1110.png,Stone
+./Image_Dataset/1111.png,Stone
+./Image_Dataset/1112.png,Stone
+./Image_Dataset/1113.png,Stone
+./Image_Dataset/1114.png,Stone
+./Image_Dataset/1115.png,Stone
+./Image_Dataset/1116.png,Stone
+./Image_Dataset/1117.png,Stone
+./Image_Dataset/1118.png,Stone
+./Image_Dataset/1119.png,Stone
+./Image_Dataset/1120.png,Stone
+./Image_Dataset/1121.png,Stone
+./Image_Dataset/1122.png,Stone
+./Image_Dataset/1123.png,Stone
+./Image_Dataset/1124.png,Stone
+./Image_Dataset/1125.png,Stone
+./Image_Dataset/1126.png,Stone
+./Image_Dataset/1127.png,Stone
+./Image_Dataset/1128.png,Stone
+./Image_Dataset/1129.png,Stone
+./Image_Dataset/1130.png,Stone
+./Image_Dataset/1131.png,Stone
+./Image_Dataset/1132.png,Stone
+./Image_Dataset/1133.png,Stone
+./Image_Dataset/1134.png,Stone
+./Image_Dataset/1135.png,Stone
+./Image_Dataset/1136.png,Stone
+./Image_Dataset/1137.png,Stone
+./Image_Dataset/1138.png,Stone
+./Image_Dataset/1139.png,Stone
+./Image_Dataset/1140.png,Stone
+./Image_Dataset/1141.png,Stone
+./Image_Dataset/1142.png,Stone
+./Image_Dataset/1143.png,Stone
+./Image_Dataset/1144.png,Stone
+./Image_Dataset/1145.png,Stone
+./Image_Dataset/1146.png,Stone
+./Image_Dataset/1147.png,Stone
+./Image_Dataset/1148.png,Stone
+./Image_Dataset/1149.png,Stone
+./Image_Dataset/1150.png,Stone
+./Image_Dataset/1151.png,Stone
+./Image_Dataset/1152.png,Stone
+./Image_Dataset/1153.png,Stone
+./Image_Dataset/1154.png,Stone
+./Image_Dataset/1155.png,Stone
+./Image_Dataset/1156.png,Stone
+./Image_Dataset/1157.png,Stone
+./Image_Dataset/1158.png,Stone
+./Image_Dataset/1159.png,Stone
+./Image_Dataset/1160.png,Stone
+./Image_Dataset/1161.png,Stone
+./Image_Dataset/1162.png,Stone
+./Image_Dataset/1163.png,Stone
+./Image_Dataset/1164.png,Stone
+./Image_Dataset/1165.png,Stone
+./Image_Dataset/1166.png,Stone
+./Image_Dataset/1167.png,Stone
+./Image_Dataset/1168.png,Stone
+./Image_Dataset/1169.png,Stone
+./Image_Dataset/1170.png,Stone
+./Image_Dataset/1171.png,Stone
+./Image_Dataset/1172.png,Stone
+./Image_Dataset/1173.png,Stone
+./Image_Dataset/1174.png,Stone
+./Image_Dataset/1175.png,Stone
+./Image_Dataset/1176.png,Stone
+./Image_Dataset/1177.png,Stone
+./Image_Dataset/1178.png,Stone
+./Image_Dataset/1179.png,Stone
+./Image_Dataset/1180.png,Stone
+./Image_Dataset/1181.png,Stone
+./Image_Dataset/1182.png,Stone
+./Image_Dataset/1183.png,Stone
+./Image_Dataset/1184.png,Stone
+./Image_Dataset/1185.png,Stone
+./Image_Dataset/1186.png,Stone
+./Image_Dataset/1187.png,Stone
+./Image_Dataset/1188.png,Stone
+./Image_Dataset/1189.png,Stone
+./Image_Dataset/1190.png,Stone
+./Image_Dataset/1191.png,Stone
+./Image_Dataset/1192.png,Stone
+./Image_Dataset/1193.png,Stone
+./Image_Dataset/1194.png,Stone
+./Image_Dataset/1195.png,Stone
+./Image_Dataset/1196.png,Stone
+./Image_Dataset/1197.png,Stone
+./Image_Dataset/1198.png,Stone
+./Image_Dataset/1199.png,Stone
+./Image_Dataset/1200.png,Stone
+./Image_Dataset/1201.png,Stone
+./Image_Dataset/1202.png,Stone
+./Image_Dataset/1203.png,Stone
+./Image_Dataset/1204.png,Stone
+./Image_Dataset/1205.png,Stone
+./Image_Dataset/1206.png,Stone
+./Image_Dataset/1207.png,Stone
+./Image_Dataset/1208.png,Stone
+./Image_Dataset/1209.png,Stone
+./Image_Dataset/1210.png,Stone
+./Image_Dataset/1211.png,Stone
+./Image_Dataset/1212.png,Stone
+./Image_Dataset/1213.png,Stone
+./Image_Dataset/1214.png,Stone
+./Image_Dataset/1215.png,Stone
+./Image_Dataset/1216.png,Stone
+./Image_Dataset/1217.png,Stone
+./Image_Dataset/1218.png,Stone
+./Image_Dataset/1219.png,Stone
+./Image_Dataset/1220.png,Stone
+./Image_Dataset/1221.png,Stone
+./Image_Dataset/1222.png,Stone
+./Image_Dataset/1223.png,Stone
+./Image_Dataset/1224.png,Stone
+./Image_Dataset/1225.png,Stone
+./Image_Dataset/1226.png,Stone
+./Image_Dataset/1227.png,Stone
+./Image_Dataset/1228.png,Stone
+./Image_Dataset/1229.png,Stone
+./Image_Dataset/1230.png,Stone
+./Image_Dataset/1231.png,Stone
+./Image_Dataset/1232.png,Stone
+./Image_Dataset/1233.png,Stone
+./Image_Dataset/1234.png,Stone
+./Image_Dataset/1235.png,Stone
+./Image_Dataset/1236.png,Stone
+./Image_Dataset/1237.png,Stone
+./Image_Dataset/1238.png,Stone
+./Image_Dataset/1239.png,Stone
+./Image_Dataset/1240.png,Stone
+./Image_Dataset/1241.png,Stone
+./Image_Dataset/1242.png,Stone
+./Image_Dataset/1243.png,Stone
+./Image_Dataset/1244.png,Stone
+./Image_Dataset/1245.png,Stone
+./Image_Dataset/1246.png,Stone
+./Image_Dataset/1247.png,Stone
+./Image_Dataset/1248.png,Stone
+./Image_Dataset/1249.png,Stone
+./Image_Dataset/1250.png,Stone
+./Image_Dataset/1251.png,Stone
+./Image_Dataset/1252.png,Stone
+./Image_Dataset/1253.png,Stone
+./Image_Dataset/1254.png,Stone
+./Image_Dataset/1255.png,Stone
+./Image_Dataset/1256.png,Stone
+./Image_Dataset/1257.png,Stone
+./Image_Dataset/1258.png,Stone
+./Image_Dataset/1259.png,Stone
+./Image_Dataset/1260.png,Stone
+./Image_Dataset/1261.png,Stone
+./Image_Dataset/1262.png,Stone
+./Image_Dataset/1263.png,Stone
+./Image_Dataset/1264.png,Stone
+./Image_Dataset/1265.png,Pen Pouch
+./Image_Dataset/1266.png,Pen Pouch
+./Image_Dataset/1267.png,Pen Pouch
+./Image_Dataset/1268.png,Pen Pouch
+./Image_Dataset/1269.png,Pen Pouch
+./Image_Dataset/1270.png,Pen Pouch
+./Image_Dataset/1271.png,Pen Pouch
+./Image_Dataset/1272.png,Pen Pouch
+./Image_Dataset/1273.png,Pen Pouch
+./Image_Dataset/1274.png,Pen Pouch
+./Image_Dataset/1275.png,Pen Pouch
+./Image_Dataset/1276.png,Pen Pouch
+./Image_Dataset/1277.png,Pen Pouch
+./Image_Dataset/1278.png,Pen Pouch
+./Image_Dataset/1279.png,Pen Pouch
+./Image_Dataset/1280.png,Pen Pouch
+./Image_Dataset/1281.png,Pen Pouch
+./Image_Dataset/1282.png,Pen Pouch
+./Image_Dataset/1283.png,Pen Pouch
+./Image_Dataset/1284.png,Pen Pouch
+./Image_Dataset/1285.png,Pen Pouch
+./Image_Dataset/1286.png,Pen Pouch
+./Image_Dataset/1287.png,Pen Pouch
+./Image_Dataset/1288.png,Pen Pouch
+./Image_Dataset/1289.png,Pen Pouch
+./Image_Dataset/1290.png,Pen Pouch
+./Image_Dataset/1291.png,Pen Pouch
+./Image_Dataset/1292.png,Pen Pouch
+./Image_Dataset/1293.png,Pen Pouch
+./Image_Dataset/1294.png,Pen Pouch
+./Image_Dataset/1295.png,Pen Pouch
+./Image_Dataset/1296.png,Pen Pouch
+./Image_Dataset/1297.png,Pen Pouch
+./Image_Dataset/1298.png,Pen Pouch
+./Image_Dataset/1299.png,Pen Pouch
+./Image_Dataset/1300.png,Pen Pouch
+./Image_Dataset/1301.png,Pen Pouch
+./Image_Dataset/1302.png,Pen Pouch
+./Image_Dataset/1303.png,Pen Pouch
+./Image_Dataset/1304.png,Pen Pouch
+./Image_Dataset/1305.png,Pen Pouch
+./Image_Dataset/1306.png,Pen Pouch
+./Image_Dataset/1307.png,Pen Pouch
+./Image_Dataset/1308.png,Pen Pouch
+./Image_Dataset/1309.png,Pen Pouch
+./Image_Dataset/1310.png,Pen Pouch
+./Image_Dataset/1311.png,Pen Pouch
+./Image_Dataset/1312.png,Pen Pouch
+./Image_Dataset/1313.png,Pen Pouch
+./Image_Dataset/1314.png,Pen Pouch
+./Image_Dataset/1315.png,Pen Pouch
+./Image_Dataset/1316.png,Pen Pouch
+./Image_Dataset/1317.png,Pen Pouch
+./Image_Dataset/1318.png,Pen Pouch
+./Image_Dataset/1319.png,Pen Pouch
+./Image_Dataset/1320.png,Pen Pouch
+./Image_Dataset/1321.png,Pen Pouch
+./Image_Dataset/1322.png,Pen Pouch
+./Image_Dataset/1323.png,Pen Pouch
+./Image_Dataset/1324.png,Pen Pouch
+./Image_Dataset/1325.png,Pen Pouch
+./Image_Dataset/1326.png,Pen Pouch
+./Image_Dataset/1327.png,Pen Pouch
+./Image_Dataset/1328.png,Pen Pouch
+./Image_Dataset/1329.png,Pen Pouch
+./Image_Dataset/1330.png,Pen Pouch
+./Image_Dataset/1331.png,Pen Pouch
+./Image_Dataset/1332.png,Pen Pouch
+./Image_Dataset/1333.png,Pen Pouch
+./Image_Dataset/1334.png,Pen Pouch
+./Image_Dataset/1335.png,Pen Pouch
+./Image_Dataset/1336.png,Pen Pouch
+./Image_Dataset/1337.png,Pen Pouch
+./Image_Dataset/1338.png,Pen Pouch
+./Image_Dataset/1339.png,Pen Pouch
+./Image_Dataset/1340.png,Pen Pouch
+./Image_Dataset/1341.png,Pen Pouch
+./Image_Dataset/1342.png,Pen Pouch
+./Image_Dataset/1343.png,Pen Pouch
+./Image_Dataset/1344.png,Pen Pouch
+./Image_Dataset/1345.png,Pen Pouch
+./Image_Dataset/1346.png,Pen Pouch
+./Image_Dataset/1347.png,Pen Pouch
+./Image_Dataset/1348.png,Pen Pouch
+./Image_Dataset/1349.png,Pen Pouch
+./Image_Dataset/1350.png,Pen Pouch
+./Image_Dataset/1351.png,Pen Pouch
+./Image_Dataset/1352.png,Pen Pouch
+./Image_Dataset/1353.png,Pen Pouch
+./Image_Dataset/1354.png,Pen Pouch
+./Image_Dataset/1355.png,Pen Pouch
+./Image_Dataset/1356.png,Pen Pouch
+./Image_Dataset/1357.png,Pen Pouch
+./Image_Dataset/1358.png,Pen Pouch
+./Image_Dataset/1359.png,Pen Pouch
+./Image_Dataset/1360.png,Pen Pouch
+./Image_Dataset/1361.png,Pen Pouch
+./Image_Dataset/1362.png,Pen Pouch
+./Image_Dataset/1363.png,Pen Pouch
+./Image_Dataset/1364.png,Pen Pouch
+./Image_Dataset/1365.png,Pen Pouch
+./Image_Dataset/1366.png,Pen Pouch
+./Image_Dataset/1367.png,Pen Pouch
+./Image_Dataset/1368.png,Pen Pouch
+./Image_Dataset/1369.png,Pen Pouch
+./Image_Dataset/1370.png,Pen Pouch
+./Image_Dataset/1371.png,Pen Pouch
+./Image_Dataset/1372.png,Pen Pouch
+./Image_Dataset/1373.png,Pen Pouch
+./Image_Dataset/1374.png,Pen Pouch
+./Image_Dataset/1375.png,Pen Pouch
+./Image_Dataset/1376.png,Pen Pouch
+./Image_Dataset/1377.png,Pen Pouch
+./Image_Dataset/1378.png,Pen Pouch
+./Image_Dataset/1379.png,Pen Pouch
+./Image_Dataset/1380.png,Pen Pouch
+./Image_Dataset/1381.png,Pen Pouch
+./Image_Dataset/1382.png,Pen Pouch
+./Image_Dataset/1383.png,Pen Pouch
+./Image_Dataset/1384.png,Pen Pouch
+./Image_Dataset/1385.png,Pen Pouch
+./Image_Dataset/1386.png,Pen Pouch
+./Image_Dataset/1387.png,Pen Pouch
+./Image_Dataset/1388.png,Pen Pouch
+./Image_Dataset/1389.png,Pen Pouch
+./Image_Dataset/1390.png,Pen Pouch
+./Image_Dataset/1391.png,Pen Pouch
+./Image_Dataset/1392.png,Pen Pouch
+./Image_Dataset/1393.png,Pen Pouch
+./Image_Dataset/1394.png,Pen Pouch
+./Image_Dataset/1395.png,Pen Pouch
+./Image_Dataset/1396.png,Pen Pouch
+./Image_Dataset/1397.png,Pen Pouch
+./Image_Dataset/1398.png,Pen Pouch
+./Image_Dataset/1399.png,Pen Pouch
+./Image_Dataset/1400.png,Pen Pouch
+./Image_Dataset/1401.png,Pen Pouch
+./Image_Dataset/1402.png,Pen Pouch
+./Image_Dataset/1403.png,Pen Pouch
+./Image_Dataset/1404.png,Pen Pouch
+./Image_Dataset/1405.png,Pen Pouch
+./Image_Dataset/1406.png,Pen Pouch
+./Image_Dataset/1407.png,Pen Pouch
+./Image_Dataset/1408.png,Pen Pouch
+./Image_Dataset/1409.png,Pen Pouch
+./Image_Dataset/1410.png,Pen Pouch
+./Image_Dataset/1411.png,Pen Pouch
+./Image_Dataset/1412.png,Pen Pouch
+./Image_Dataset/1413.png,Pen Pouch
+./Image_Dataset/1414.png,Pen Pouch
+./Image_Dataset/1415.png,Pen Pouch
+./Image_Dataset/1416.png,Pen Pouch
+./Image_Dataset/1417.png,Pen Pouch
+./Image_Dataset/1418.png,Pen Pouch
+./Image_Dataset/1419.png,Pen Pouch
+./Image_Dataset/1420.png,Pen Pouch
+./Image_Dataset/1421.png,Pen Pouch
+./Image_Dataset/1422.png,Pen Pouch
+./Image_Dataset/1423.png,Pen Pouch
+./Image_Dataset/1424.png,Pen Pouch
+./Image_Dataset/1425.png,Pen Pouch
+./Image_Dataset/1426.png,Pen Pouch
+./Image_Dataset/1427.png,Pen Pouch
+./Image_Dataset/1428.png,Pen Pouch
+./Image_Dataset/1429.png,Pen Pouch
+./Image_Dataset/1430.png,Pen Pouch
+./Image_Dataset/1431.png,Pen Pouch
+./Image_Dataset/1432.png,Pen Pouch
+./Image_Dataset/1433.png,Pen Pouch
+./Image_Dataset/1434.png,Pen Pouch
+./Image_Dataset/1435.png,Pen Pouch
+./Image_Dataset/1436.png,Pen Pouch
+./Image_Dataset/1437.png,Pen Pouch
+./Image_Dataset/1438.png,Pen Pouch
+./Image_Dataset/1439.png,Pen Pouch
+./Image_Dataset/1440.png,Pen Pouch
+./Image_Dataset/1441.png,Pen Pouch
+./Image_Dataset/1442.png,Pen Pouch
+./Image_Dataset/1443.png,Pen Pouch
+./Image_Dataset/1444.png,Pen Pouch
+./Image_Dataset/1445.png,Pen Pouch
+./Image_Dataset/1446.png,Pen Pouch
+./Image_Dataset/1447.png,Pen Pouch
+./Image_Dataset/1448.png,Pen Pouch
+./Image_Dataset/1449.png,Pen Pouch
+./Image_Dataset/1450.png,Pen Pouch
+./Image_Dataset/1451.png,Pen Pouch
+./Image_Dataset/1452.png,Pen Pouch
+./Image_Dataset/1453.png,Pen Pouch
+./Image_Dataset/1454.png,Pen Pouch
+./Image_Dataset/1455.png,Pen Pouch
+./Image_Dataset/1456.png,Pen Pouch
+./Image_Dataset/1457.png,Pen Pouch
+./Image_Dataset/1458.png,Pen Pouch
+./Image_Dataset/1459.png,Pen Pouch
+./Image_Dataset/1460.png,Pen Pouch
+./Image_Dataset/1461.png,Pen Pouch
+./Image_Dataset/1462.png,Pen Pouch
+./Image_Dataset/1463.png,Pen Pouch
+./Image_Dataset/1464.png,Pen Pouch
+./Image_Dataset/1465.png,Pen Pouch
+./Image_Dataset/1466.png,Pen Pouch
+./Image_Dataset/1467.png,Pen Pouch
+./Image_Dataset/1468.png,Pen Pouch
+./Image_Dataset/1469.png,Pen Pouch
+./Image_Dataset/1470.png,Pen Pouch
+./Image_Dataset/1471.png,Pen Pouch
+./Image_Dataset/1472.png,Pen Pouch
+./Image_Dataset/1473.png,Pen Pouch
+./Image_Dataset/1474.png,Pen Pouch
+./Image_Dataset/1475.png,Pen Pouch
+./Image_Dataset/1476.png,Pen Pouch
+./Image_Dataset/1477.png,Pen Pouch
+./Image_Dataset/1478.png,Pen Pouch
+./Image_Dataset/1479.png,Pen Pouch
+./Image_Dataset/1480.png,Pen Pouch
+./Image_Dataset/1481.png,Pen Pouch
+./Image_Dataset/1482.png,Pen Pouch
+./Image_Dataset/1483.png,Pen Pouch
+./Image_Dataset/1484.png,Pen Pouch
+./Image_Dataset/1485.png,Pen Pouch
+./Image_Dataset/1486.png,Pen Pouch
+./Image_Dataset/1487.png,Pen Pouch
+./Image_Dataset/1488.png,Pen Pouch
+./Image_Dataset/1489.png,Pen Pouch
+./Image_Dataset/1490.png,Pen Pouch
+./Image_Dataset/1491.png,Pen Pouch
+./Image_Dataset/1492.png,Pen Pouch
+./Image_Dataset/1493.png,Pen Pouch
+./Image_Dataset/1494.png,Pen Pouch
+./Image_Dataset/1495.png,Pen Pouch
+./Image_Dataset/1496.png,Pen Pouch
+./Image_Dataset/1497.png,Pen Pouch
+./Image_Dataset/1498.png,Pen Pouch
+./Image_Dataset/1499.png,Pen Pouch
+./Image_Dataset/1500.png,Pen Pouch
+./Image_Dataset/1501.png,Pen Pouch
+./Image_Dataset/1502.png,Pen Pouch
+./Image_Dataset/1503.png,Pen Pouch
+./Image_Dataset/1504.png,Pen Pouch
+./Image_Dataset/1505.png,Pen Pouch
+./Image_Dataset/1506.png,Pen Pouch
+./Image_Dataset/1507.png,Pen Pouch
+./Image_Dataset/1508.png,Pen Pouch
+./Image_Dataset/1509.png,Pen Pouch
+./Image_Dataset/1510.png,Pen Pouch
+./Image_Dataset/1511.png,Pen Pouch
+./Image_Dataset/1512.png,Pen Pouch
+./Image_Dataset/1513.png,Pen Pouch
+./Image_Dataset/1514.png,Pen Pouch
+./Image_Dataset/1515.png,Pen Pouch
+./Image_Dataset/1516.png,Pen Pouch
+./Image_Dataset/1517.png,Pen Pouch
+./Image_Dataset/1518.png,Pen Pouch
+./Image_Dataset/1519.png,Pen Pouch
+./Image_Dataset/1520.png,Pen Pouch
+./Image_Dataset/1521.png,Pen Pouch
+./Image_Dataset/1522.png,Pen Pouch
+./Image_Dataset/1523.png,Pen Pouch
+./Image_Dataset/1524.png,Pen Pouch
+./Image_Dataset/1525.png,Pen Pouch
+./Image_Dataset/1526.png,Pen Pouch
+./Image_Dataset/1527.png,Pen Pouch
+./Image_Dataset/1528.png,Pen Pouch
+./Image_Dataset/1529.png,Pen Pouch
+./Image_Dataset/1530.png,Pen Pouch
+./Image_Dataset/1531.png,Pen Pouch
+./Image_Dataset/1532.png,Pen Pouch
+./Image_Dataset/1533.png,Pen Pouch
+./Image_Dataset/1534.png,Pen Pouch
+./Image_Dataset/1535.png,Pen Pouch
+./Image_Dataset/1536.png,Pen Pouch
+./Image_Dataset/1537.png,Pen Pouch
+./Image_Dataset/1538.png,Pen Pouch
+./Image_Dataset/1539.png,Pen Pouch
+./Image_Dataset/1540.png,Pen Pouch
+./Image_Dataset/1541.png,Pen Pouch
+./Image_Dataset/1542.png,Pen Pouch
+./Image_Dataset/1543.png,Pen Pouch
+./Image_Dataset/1544.png,Pen Pouch
+./Image_Dataset/1545.png,Pen Pouch
+./Image_Dataset/1546.png,Pen Pouch
+./Image_Dataset/1547.png,Pen Pouch
+./Image_Dataset/1548.png,Pen Pouch
+./Image_Dataset/1549.png,Pen Pouch
+./Image_Dataset/1550.png,Pen Pouch
+./Image_Dataset/1551.png,Pen Pouch
+./Image_Dataset/1552.png,Pen Pouch
+./Image_Dataset/1553.png,Pen Pouch
+./Image_Dataset/1554.png,Pen Pouch
+./Image_Dataset/1555.png,Pen Pouch
+./Image_Dataset/1556.png,Pen Pouch
+./Image_Dataset/1557.png,Pen Pouch
+./Image_Dataset/1558.png,Pen Pouch
+./Image_Dataset/1559.png,Pen Pouch
+./Image_Dataset/1560.png,Pen Pouch
+./Image_Dataset/1561.png,Pen Pouch
+./Image_Dataset/1562.png,Pen Pouch
+./Image_Dataset/1563.png,Pen Pouch
+./Image_Dataset/1564.png,Pen Pouch
+./Image_Dataset/1565.png,Pen Pouch
+./Image_Dataset/1566.png,Pen Pouch
+./Image_Dataset/1567.png,Pen Pouch
+./Image_Dataset/1568.png,Pen Pouch
+./Image_Dataset/1569.png,Pen Pouch
+./Image_Dataset/1570.png,Pen Pouch
+./Image_Dataset/1571.png,Pen Pouch
+./Image_Dataset/1572.png,Pen Pouch
+./Image_Dataset/1573.png,Pen Pouch
+./Image_Dataset/1574.png,Pen Pouch
+./Image_Dataset/1575.png,Pen Pouch
+./Image_Dataset/1576.png,Pen Pouch
+./Image_Dataset/1577.png,Pen Pouch
+./Image_Dataset/1578.png,Pen Pouch
+./Image_Dataset/1579.png,Pen Pouch
+./Image_Dataset/1580.png,Pen Pouch
+./Image_Dataset/1581.png,Pen Pouch
+./Image_Dataset/1582.png,Pen Pouch
+./Image_Dataset/1583.png,Pen Pouch
+./Image_Dataset/1584.png,Pen Pouch
+./Image_Dataset/1585.png,Pen Pouch
+./Image_Dataset/1586.png,Pen Pouch
+./Image_Dataset/1587.png,Pen Pouch
+./Image_Dataset/1588.png,Pen Pouch
+./Image_Dataset/1589.png,Pen Pouch
+./Image_Dataset/1590.png,Pen Pouch
+./Image_Dataset/1591.png,Pen Pouch
+./Image_Dataset/1592.png,Pen Pouch
+./Image_Dataset/1593.png,Pen Pouch
+./Image_Dataset/1594.png,Pen Pouch
+./Image_Dataset/1595.png,Pen Pouch
+./Image_Dataset/1596.png,Pen Pouch
+./Image_Dataset/1597.png,Pen Pouch
+./Image_Dataset/1598.png,Pen Pouch
+./Image_Dataset/1599.png,Pen Pouch
+./Image_Dataset/1600.png,Pen Pouch
+./Image_Dataset/1601.png,Pen Pouch
+./Image_Dataset/1602.png,Pen Pouch
+./Image_Dataset/1603.png,Pen Pouch
+./Image_Dataset/1604.png,Pen Pouch
+./Image_Dataset/1605.png,Pen Pouch
+./Image_Dataset/1606.png,Pen Pouch
+./Image_Dataset/1607.png,Pen Pouch
+./Image_Dataset/1608.png,Pen Pouch
+./Image_Dataset/1609.png,Pen Pouch
+./Image_Dataset/1610.png,Pen Pouch
+./Image_Dataset/1611.png,Pen Pouch
+./Image_Dataset/1612.png,Pen Pouch
+./Image_Dataset/1613.png,Pen Pouch
+./Image_Dataset/1614.png,Pen Pouch
+./Image_Dataset/1615.png,Pen Pouch
+./Image_Dataset/1616.png,Pen Pouch
+./Image_Dataset/1617.png,Pen Pouch
+./Image_Dataset/1618.png,Pen Pouch
+./Image_Dataset/1619.png,Pen Pouch
+./Image_Dataset/1620.png,Pen Pouch
+./Image_Dataset/1621.png,Pen Pouch
+./Image_Dataset/1622.png,Pen Pouch
+./Image_Dataset/1623.png,Pen Pouch
+./Image_Dataset/1624.png,Pen Pouch
+./Image_Dataset/1625.png,Pen Pouch
+./Image_Dataset/1626.png,Pen Pouch
+./Image_Dataset/1627.png,Pen Pouch
+./Image_Dataset/1628.png,Pen Pouch
+./Image_Dataset/1629.png,Pen Pouch
+./Image_Dataset/1630.png,Pen Pouch
+./Image_Dataset/1631.png,Pen Pouch
+./Image_Dataset/1632.png,Pen Pouch
+./Image_Dataset/1633.png,Pen Pouch
+./Image_Dataset/1634.png,Pen Pouch
+./Image_Dataset/1635.png,Pen Pouch
+./Image_Dataset/1636.png,Pen Pouch
+./Image_Dataset/1637.png,Pen Pouch
+./Image_Dataset/1638.png,Pen Pouch
+./Image_Dataset/1639.png,Pen Pouch
+./Image_Dataset/1640.png,Pen Pouch
+./Image_Dataset/1641.png,Pen Pouch
+./Image_Dataset/1642.png,Pen Pouch
+./Image_Dataset/1643.png,Pen Pouch
+./Image_Dataset/1644.png,Pen Pouch
+./Image_Dataset/1645.png,Pen Pouch
+./Image_Dataset/1646.png,Pen Pouch
+./Image_Dataset/1647.png,Pen Pouch
+./Image_Dataset/1648.png,Pen Pouch
+./Image_Dataset/1649.png,Pen Pouch
+./Image_Dataset/1650.png,Pen Pouch
+./Image_Dataset/1651.png,Pen Pouch
+./Image_Dataset/1652.png,Pen Pouch
+./Image_Dataset/1653.png,Pen Pouch
+./Image_Dataset/1654.png,Pen Pouch
+./Image_Dataset/1655.png,Pen Pouch
+./Image_Dataset/1656.png,Pen Pouch
+./Image_Dataset/1657.png,Pen Pouch
+./Image_Dataset/1658.png,Pen Pouch
+./Image_Dataset/1659.png,Pen Pouch
+./Image_Dataset/1660.png,Pen Pouch
+./Image_Dataset/1661.png,Pen Pouch
+./Image_Dataset/1662.png,Pen Pouch
+./Image_Dataset/1663.png,Pen Pouch
+./Image_Dataset/1664.png,Pen Pouch
+./Image_Dataset/1665.png,Pen Pouch
+./Image_Dataset/1666.png,Pen Pouch
+./Image_Dataset/1667.png,Pen Pouch
+./Image_Dataset/1668.png,Pen Pouch
+./Image_Dataset/1669.png,Pen Pouch
+./Image_Dataset/1670.png,Pen Pouch
+./Image_Dataset/1671.png,Pen Pouch
+./Image_Dataset/1672.png,Pen Pouch
+./Image_Dataset/1673.png,Pen Pouch
+./Image_Dataset/1674.png,Pen Pouch
+./Image_Dataset/1675.png,Pen Pouch
+./Image_Dataset/1676.png,Pen Pouch
+./Image_Dataset/1677.png,Pen Pouch
+./Image_Dataset/1678.png,Pen Pouch
+./Image_Dataset/1679.png,Pen Pouch
+./Image_Dataset/1680.png,Pen Pouch
+./Image_Dataset/1681.png,Pen Pouch
+./Image_Dataset/1682.png,Pen Pouch
+./Image_Dataset/1683.png,Pen Pouch
+./Image_Dataset/1684.png,Pen Pouch
+./Image_Dataset/1685.png,Pen Pouch
+./Image_Dataset/1686.png,Pen Pouch
+./Image_Dataset/1687.png,Pen Pouch
+./Image_Dataset/1688.png,Pen Pouch
+./Image_Dataset/1689.png,Pen Pouch
+./Image_Dataset/1690.png,Pen Pouch
+./Image_Dataset/1691.png,Pen Pouch
+./Image_Dataset/1692.png,Pen Pouch
+./Image_Dataset/1693.png,Pen Pouch
+./Image_Dataset/1694.png,Pen Pouch
+./Image_Dataset/1695.png,Pen Pouch
+./Image_Dataset/1696.png,Pen Pouch
+./Image_Dataset/1697.png,Pen Pouch
+./Image_Dataset/1698.png,Pen Pouch
+./Image_Dataset/1699.png,Pen Pouch
+./Image_Dataset/1700.png,Pen Pouch
+./Image_Dataset/1701.png,Pen Pouch
+./Image_Dataset/1702.png,Pen Pouch
+./Image_Dataset/1703.png,Pen Pouch
+./Image_Dataset/1704.png,Pen Pouch
+./Image_Dataset/1705.png,Pen Pouch
+./Image_Dataset/1706.png,Pen Pouch
+./Image_Dataset/1707.png,Pen Pouch
+./Image_Dataset/1708.png,Pen Pouch
+./Image_Dataset/1709.png,Pen Pouch
+./Image_Dataset/1710.png,Pen Pouch
+./Image_Dataset/1711.png,Pen Pouch
+./Image_Dataset/1712.png,Pen Pouch
+./Image_Dataset/1713.png,Pen Pouch
+./Image_Dataset/1714.png,Pen Pouch
+./Image_Dataset/1715.png,Pen Pouch
+./Image_Dataset/1716.png,Pen Pouch
+./Image_Dataset/1717.png,Pen Pouch
+./Image_Dataset/1718.png,Pen Pouch
+./Image_Dataset/1719.png,Pen Pouch
+./Image_Dataset/1720.png,Pen Pouch
+./Image_Dataset/1721.png,Pen Pouch
+./Image_Dataset/1722.png,Pen Pouch
+./Image_Dataset/1723.png,Pen Pouch
+./Image_Dataset/1724.png,Pen Pouch
+./Image_Dataset/1725.png,Pen Pouch
+./Image_Dataset/1726.png,Pen Pouch
+./Image_Dataset/1727.png,Pen Pouch
+./Image_Dataset/1728.png,Pen Pouch
+./Image_Dataset/1729.png,Pen Pouch
+./Image_Dataset/1730.png,Pen Pouch
+./Image_Dataset/1731.png,Pen Pouch
+./Image_Dataset/1732.png,Pen Pouch
+./Image_Dataset/1733.png,Pen Pouch
+./Image_Dataset/1734.png,Pen Pouch
+./Image_Dataset/1735.png,Pen Pouch
+./Image_Dataset/1736.png,Pen Pouch
+./Image_Dataset/1737.png,Pen Pouch
+./Image_Dataset/1738.png,Pen Pouch
+./Image_Dataset/1739.png,Pen Pouch
+./Image_Dataset/1740.png,Pen Pouch
+./Image_Dataset/1741.png,Pen Pouch
+./Image_Dataset/1742.png,Pen Pouch
+./Image_Dataset/1743.png,Pen Pouch
+./Image_Dataset/1744.png,Pen Pouch
+./Image_Dataset/1745.png,Pen Pouch
+./Image_Dataset/1746.png,Pen Pouch
+./Image_Dataset/1747.png,Pen Pouch
+./Image_Dataset/1748.png,Pen Pouch
+./Image_Dataset/1749.png,Pen Pouch
+./Image_Dataset/1750.png,Pen Pouch
+./Image_Dataset/1751.png,Pen Pouch
+./Image_Dataset/1752.png,Pen Pouch
+./Image_Dataset/1753.png,Pen Pouch
+./Image_Dataset/1754.png,Pen Pouch
+./Image_Dataset/1755.png,Pen Pouch
+./Image_Dataset/1756.png,Pen Pouch
+./Image_Dataset/1757.png,Pen Pouch
+./Image_Dataset/1758.png,Pen Pouch
+./Image_Dataset/1759.png,Pen Pouch
+./Image_Dataset/1760.png,Pen Pouch
+./Image_Dataset/1761.png,Pen Pouch
+./Image_Dataset/1762.png,Pen Pouch
+./Image_Dataset/1763.png,Pen Pouch
+./Image_Dataset/1764.png,Pen Pouch
+./Image_Dataset/1765.png,Pen Pouch
+./Image_Dataset/1766.png,Pen Pouch
+./Image_Dataset/1767.png,Pen Pouch
+./Image_Dataset/1768.png,Pen Pouch
+./Image_Dataset/1769.png,Pen Pouch
+./Image_Dataset/1770.png,Pen Pouch
+./Image_Dataset/1771.png,Pen Pouch
+./Image_Dataset/1772.png,Pen Pouch
+./Image_Dataset/1773.png,Pen Pouch
+./Image_Dataset/1774.png,Pen Pouch
+./Image_Dataset/1775.png,Pen Pouch
+./Image_Dataset/1776.png,Pen Pouch
+./Image_Dataset/1777.png,Pen Pouch
+./Image_Dataset/1778.png,Pen Pouch
+./Image_Dataset/1779.png,Pen Pouch
+./Image_Dataset/1780.png,Pen Pouch
+./Image_Dataset/1781.png,Pen Pouch
+./Image_Dataset/1782.png,Pen Pouch
+./Image_Dataset/1783.png,Pen Pouch
+./Image_Dataset/1784.png,Pen Pouch
+./Image_Dataset/1785.png,Pen Pouch
+./Image_Dataset/1786.png,Pen Pouch
+./Image_Dataset/1787.png,Pen Pouch
+./Image_Dataset/1788.png,Pen Pouch
+./Image_Dataset/1789.png,Pen Pouch
+./Image_Dataset/1790.png,Pen Pouch
+./Image_Dataset/1791.png,Pen Pouch
+./Image_Dataset/1792.png,Pen Pouch
+./Image_Dataset/1793.png,Pen Pouch
+./Image_Dataset/1794.png,Pen Pouch
+./Image_Dataset/1795.png,Pen Pouch
+./Image_Dataset/1796.png,Pen Pouch
+./Image_Dataset/1797.png,Pen Pouch
+./Image_Dataset/1798.png,Pen Pouch
+./Image_Dataset/1799.png,Pen Pouch
+./Image_Dataset/1800.png,Pen Pouch
+./Image_Dataset/1801.png,Pen Pouch
+./Image_Dataset/1802.png,Pen Pouch
+./Image_Dataset/1803.png,Pen Pouch
+./Image_Dataset/1804.png,Pen Pouch
+./Image_Dataset/1805.png,Pen Pouch
+./Image_Dataset/1806.png,Pen Pouch
+./Image_Dataset/1807.png,Pen Pouch
+./Image_Dataset/1808.png,Pen Pouch
+./Image_Dataset/1809.png,Pen Pouch
+./Image_Dataset/1810.png,Pen Pouch
+./Image_Dataset/1811.png,Pen Pouch
+./Image_Dataset/1812.png,Pen Pouch
+./Image_Dataset/1813.png,Pen Pouch
+./Image_Dataset/1814.png,Pen Pouch
+./Image_Dataset/1815.png,Pen Pouch
+./Image_Dataset/1816.png,Pen Pouch
+./Image_Dataset/1817.png,Pen Pouch
+./Image_Dataset/1818.png,Pen Pouch
+./Image_Dataset/1819.png,Pen Pouch
+./Image_Dataset/1820.png,Pen Pouch
+./Image_Dataset/1821.png,Pen Pouch
+./Image_Dataset/1822.png,Pen Pouch
+./Image_Dataset/1823.png,Pen Pouch
+./Image_Dataset/1824.png,Pen Pouch
+./Image_Dataset/1825.png,Pen Pouch
+./Image_Dataset/1826.png,Pen Pouch
+./Image_Dataset/1827.png,Pen Pouch
+./Image_Dataset/1828.png,Pen Pouch
+./Image_Dataset/1829.png,Pen Pouch
+./Image_Dataset/1830.png,Pen Pouch
+./Image_Dataset/1831.png,Pen Pouch
+./Image_Dataset/1832.png,Pen Pouch
+./Image_Dataset/1833.png,Pen Pouch
+./Image_Dataset/1834.png,Pen Pouch
+./Image_Dataset/1835.png,Pen Pouch
+./Image_Dataset/1836.png,Pen Pouch
+./Image_Dataset/1837.png,Pen Pouch
+./Image_Dataset/1838.png,Pen Pouch
+./Image_Dataset/1839.png,Pen Pouch
+./Image_Dataset/1840.png,Pen Pouch
+./Image_Dataset/1841.png,Pen Pouch
+./Image_Dataset/1842.png,Pen Pouch
+./Image_Dataset/1843.png,Pen Pouch
+./Image_Dataset/1844.png,Pen Pouch
+./Image_Dataset/1845.png,Pen Pouch
+./Image_Dataset/1846.png,Pen Pouch
+./Image_Dataset/1847.png,Pen Pouch
+./Image_Dataset/1848.png,Pen Pouch
+./Image_Dataset/1849.png,Pen Pouch
+./Image_Dataset/1850.png,Pen Pouch
+./Image_Dataset/1851.png,Pen Pouch
+./Image_Dataset/1852.png,Pen Pouch
+./Image_Dataset/1853.png,Pen Pouch
+./Image_Dataset/1854.png,Pen Pouch
+./Image_Dataset/1855.png,Pen Pouch
+./Image_Dataset/1856.png,Pen Pouch
+./Image_Dataset/1857.png,Pen Pouch
+./Image_Dataset/1858.png,Pen Pouch
+./Image_Dataset/1859.png,Pen Pouch
+./Image_Dataset/1860.png,Pen Pouch
+./Image_Dataset/1861.png,Pen Pouch
+./Image_Dataset/1862.png,Pen Pouch
+./Image_Dataset/1863.png,Pen Pouch
+./Image_Dataset/1864.png,Pen Pouch
+./Image_Dataset/1865.png,Pen Pouch
+./Image_Dataset/1866.png,Pen Pouch
+./Image_Dataset/1867.png,Pen Pouch
+./Image_Dataset/1868.png,Pen Pouch
+./Image_Dataset/1869.png,Pen Pouch
+./Image_Dataset/1870.png,Pen Pouch
+./Image_Dataset/1871.png,Pen Pouch
+./Image_Dataset/1872.png,Pen Pouch
+./Image_Dataset/1873.png,Pen Pouch
+./Image_Dataset/1874.png,Pen Pouch
+./Image_Dataset/1875.png,Pen Pouch
+./Image_Dataset/1876.png,Pen Pouch
+./Image_Dataset/1877.png,Pen Pouch
+./Image_Dataset/1878.png,Pen Pouch
+./Image_Dataset/1879.png,Pen Pouch
+./Image_Dataset/1880.png,Pen Pouch
+./Image_Dataset/1881.png,Pen Pouch
+./Image_Dataset/1882.png,Pen Pouch
+./Image_Dataset/1883.png,Pen Pouch
+./Image_Dataset/1884.png,Pen Pouch
+./Image_Dataset/1885.png,Pen Pouch
+./Image_Dataset/1886.png,Pen Pouch
+./Image_Dataset/1887.png,Pen Pouch
+./Image_Dataset/1888.png,Pen Pouch
+./Image_Dataset/1889.png,Pen Pouch
+./Image_Dataset/1890.png,Pen Pouch
+./Image_Dataset/1891.png,Pen Pouch
+./Image_Dataset/1892.png,Pen Pouch
+./Image_Dataset/1893.png,Pen Pouch
+./Image_Dataset/1894.png,Pen Pouch
+./Image_Dataset/1895.png,Pen Pouch
+./Image_Dataset/1896.png,Pen Pouch
+./Image_Dataset/1897.png,Pen Pouch
+./Image_Dataset/1898.png,Pen Pouch
+./Image_Dataset/1899.png,Pen Pouch
+./Image_Dataset/1900.png,Pen Pouch
+./Image_Dataset/1901.png,Pen Pouch
+./Image_Dataset/1902.png,Pen Pouch
+./Image_Dataset/1903.png,Pen Pouch
+./Image_Dataset/1904.png,Pen Pouch
+./Image_Dataset/1905.png,Pen Pouch
+./Image_Dataset/1906.png,Pen Pouch
+./Image_Dataset/1907.png,Pen Pouch
+./Image_Dataset/1908.png,Pen Pouch
+./Image_Dataset/1909.png,Pen Pouch
+./Image_Dataset/1910.png,Pen Pouch
+./Image_Dataset/1911.png,Pen Pouch
+./Image_Dataset/1912.png,Pen Pouch
+./Image_Dataset/1913.png,Pen Pouch
+./Image_Dataset/1914.png,Pen Pouch
+./Image_Dataset/1915.png,Pen Pouch
+./Image_Dataset/1916.png,Pen Pouch
+./Image_Dataset/1917.png,Pen Pouch
+./Image_Dataset/1918.png,Pen Pouch
+./Image_Dataset/1919.png,Pen Pouch
+./Image_Dataset/1920.png,Pen Pouch
+./Image_Dataset/1921.png,Pen Pouch
+./Image_Dataset/1922.png,Pen Pouch
+./Image_Dataset/1923.png,Pen Pouch
+./Image_Dataset/1924.png,Pen Pouch
+./Image_Dataset/1925.png,Pen Pouch
+./Image_Dataset/1926.png,Pen Pouch
+./Image_Dataset/1927.png,Pen Pouch
+./Image_Dataset/1928.png,Pen Pouch
+./Image_Dataset/1929.png,Pen Pouch
+./Image_Dataset/1930.png,Pen Pouch
+./Image_Dataset/1931.png,Pen Pouch
+./Image_Dataset/1932.png,Pen Pouch
+./Image_Dataset/1933.png,Pen Pouch
+./Image_Dataset/1934.png,Pen Pouch
+./Image_Dataset/1935.png,Pen Pouch
+./Image_Dataset/1936.png,Pen Pouch
+./Image_Dataset/1937.png,Pen Pouch
+./Image_Dataset/1938.png,Pen Pouch
+./Image_Dataset/1939.png,Pen Pouch
+./Image_Dataset/1940.png,Pen Pouch
+./Image_Dataset/1941.png,Pen Pouch
+./Image_Dataset/1942.png,Pen Pouch
+./Image_Dataset/1943.png,Pen Pouch
+./Image_Dataset/1944.png,Pen Pouch
+./Image_Dataset/1945.png,Pen Pouch
+./Image_Dataset/1946.png,Pen Pouch
+./Image_Dataset/1947.png,Pen Pouch
+./Image_Dataset/1948.png,Pen Pouch
+./Image_Dataset/1949.png,Pen Pouch
+./Image_Dataset/1950.png,Pen Pouch
+./Image_Dataset/1951.png,Pen Pouch
+./Image_Dataset/1952.png,Pen Pouch
+./Image_Dataset/1953.png,Pen Pouch
+./Image_Dataset/1954.png,Pen Pouch
+./Image_Dataset/1955.png,Pen Pouch
+./Image_Dataset/1956.png,Pen Pouch
+./Image_Dataset/1957.png,Pen Pouch
+./Image_Dataset/1958.png,Pen Pouch
+./Image_Dataset/1959.png,Pen Pouch
+./Image_Dataset/1960.png,Pen Pouch
+./Image_Dataset/1961.png,Pen Pouch
+./Image_Dataset/1962.png,Pen Pouch
+./Image_Dataset/1963.png,Pen Pouch
+./Image_Dataset/1964.png,Pen Pouch
+./Image_Dataset/1965.png,Pen Pouch
+./Image_Dataset/1966.png,Pen Pouch
+./Image_Dataset/1967.png,Pen Pouch
+./Image_Dataset/1968.png,Pen Pouch
+./Image_Dataset/1969.png,Pen Pouch
+./Image_Dataset/1970.png,Pen Pouch
+./Image_Dataset/1971.png,Pen Pouch
+./Image_Dataset/1972.png,Pen Pouch
+./Image_Dataset/1973.png,Pen Pouch
+./Image_Dataset/1974.png,Pen Pouch
+./Image_Dataset/1975.png,Pen Pouch
+./Image_Dataset/1976.png,Pen Pouch
+./Image_Dataset/1977.png,Pen Pouch
+./Image_Dataset/1978.png,Pen Pouch
+./Image_Dataset/1979.png,Pen Pouch
+./Image_Dataset/1980.png,Pen Pouch
+./Image_Dataset/1981.png,Pen Pouch
+./Image_Dataset/1982.png,Pen Pouch
+./Image_Dataset/1983.png,Pen Pouch
+./Image_Dataset/1984.png,Pen Pouch
+./Image_Dataset/1985.png,Pen Pouch
+./Image_Dataset/1986.png,Pen Pouch
+./Image_Dataset/1987.png,Pen Pouch
+./Image_Dataset/1988.png,Pen Pouch
+./Image_Dataset/1989.png,Pen Pouch
+./Image_Dataset/1990.png,Pen Pouch
+./Image_Dataset/1991.png,Pen Pouch
+./Image_Dataset/1992.png,Pen Pouch
+./Image_Dataset/1993.png,Pen Pouch
+./Image_Dataset/1994.png,Pen Pouch
+./Image_Dataset/1995.png,Pen Pouch
+./Image_Dataset/1996.png,Pen Pouch
+./Image_Dataset/1997.png,Pen Pouch
+./Image_Dataset/1998.png,Pen Pouch
+./Image_Dataset/1999.png,Pen Pouch
+./Image_Dataset/2000.png,Pen Pouch
+./Image_Dataset/2001.png,Pen Pouch
+./Image_Dataset/2002.png,Pen Pouch
+./Image_Dataset/2003.png,Pen Pouch
+./Image_Dataset/2004.png,Pen Pouch
+./Image_Dataset/2005.png,Pen Pouch
+./Image_Dataset/2006.png,Pen Pouch
+./Image_Dataset/2007.png,Pen Pouch
+./Image_Dataset/2008.png,Pen Pouch
+./Image_Dataset/2009.png,Pen Pouch
+./Image_Dataset/2010.png,Pen Pouch
+./Image_Dataset/2011.png,Pen Pouch
+./Image_Dataset/2012.png,Pen Pouch
+./Image_Dataset/2013.png,Pen Pouch
+./Image_Dataset/2014.png,Pen Pouch
+./Image_Dataset/2015.png,Pen Pouch
+./Image_Dataset/2016.png,Pen Pouch
+./Image_Dataset/2017.png,Pen Pouch
+./Image_Dataset/2018.png,Pen Pouch
+./Image_Dataset/2019.png,Pen Pouch
+./Image_Dataset/2020.png,Pen Pouch
+./Image_Dataset/2021.png,Pen Pouch
+./Image_Dataset/2022.png,Pen Pouch
+./Image_Dataset/2023.png,Pen Pouch
+./Image_Dataset/2024.png,Pen Pouch
+./Image_Dataset/2025.png,Pen Pouch
+./Image_Dataset/2026.png,Pen Pouch
+./Image_Dataset/2027.png,Pen Pouch
+./Image_Dataset/2028.png,Pen Pouch
+./Image_Dataset/2029.png,Pen Pouch
+./Image_Dataset/2030.png,Pen Pouch
+./Image_Dataset/2031.png,Pen Pouch
+./Image_Dataset/2032.png,Pen Pouch
+./Image_Dataset/2033.png,Pen Pouch
+./Image_Dataset/2034.png,Pen Pouch
+./Image_Dataset/2035.png,Pen Pouch
+./Image_Dataset/2036.png,Pen Pouch
+./Image_Dataset/2037.png,Pen Pouch
+./Image_Dataset/2038.png,Pen Pouch
+./Image_Dataset/2039.png,Pen Pouch
+./Image_Dataset/2040.png,Pen Pouch
+./Image_Dataset/2041.png,Pen Pouch
+./Image_Dataset/2042.png,Pen Pouch
+./Image_Dataset/2043.png,Pen Pouch
+./Image_Dataset/2044.png,Pen Pouch
+./Image_Dataset/2045.png,Pen Pouch
+./Image_Dataset/2046.png,Pen Pouch
+./Image_Dataset/2047.png,Pen Pouch
+./Image_Dataset/2048.png,Pen Pouch
+./Image_Dataset/2049.png,Pen Pouch
+./Image_Dataset/2050.png,Pen Pouch
+./Image_Dataset/2051.png,Pen Pouch
+./Image_Dataset/2052.png,Pen Pouch
+./Image_Dataset/2053.png,Pen Pouch
+./Image_Dataset/2054.png,Pen Pouch
+./Image_Dataset/2055.png,Pen Pouch
+./Image_Dataset/2056.png,Pen Pouch
+./Image_Dataset/2057.png,Pen Pouch
+./Image_Dataset/2058.png,Pen Pouch
+./Image_Dataset/2059.png,Pen Pouch
+./Image_Dataset/2060.png,Pen Pouch
+./Image_Dataset/2061.png,Pen Pouch
+./Image_Dataset/2062.png,Pen Pouch
+./Image_Dataset/2063.png,Pen Pouch
+./Image_Dataset/2064.png,Pen Pouch
+./Image_Dataset/2065.png,Pen Pouch
+./Image_Dataset/2066.png,Background
+./Image_Dataset/2067.png,Background
+./Image_Dataset/2068.png,Background
+./Image_Dataset/2069.png,Background
+./Image_Dataset/2070.png,Background
+./Image_Dataset/2071.png,Background
+./Image_Dataset/2072.png,Background
+./Image_Dataset/2073.png,Background
+./Image_Dataset/2074.png,Background
+./Image_Dataset/2075.png,Background
+./Image_Dataset/2076.png,Background
+./Image_Dataset/2077.png,Background
+./Image_Dataset/2078.png,Background
+./Image_Dataset/2079.png,Background
+./Image_Dataset/2080.png,Background
+./Image_Dataset/2081.png,Background
+./Image_Dataset/2082.png,Background
+./Image_Dataset/2083.png,Background
+./Image_Dataset/2084.png,Background
+./Image_Dataset/2085.png,Background
+./Image_Dataset/2086.png,Background
+./Image_Dataset/2087.png,Background
+./Image_Dataset/2088.png,Background
+./Image_Dataset/2089.png,Background
+./Image_Dataset/2090.png,Background
+./Image_Dataset/2091.png,Background
+./Image_Dataset/2092.png,Background
+./Image_Dataset/2093.png,Background
+./Image_Dataset/2094.png,Background
+./Image_Dataset/2095.png,Background
+./Image_Dataset/2096.png,Background
+./Image_Dataset/2097.png,Background
+./Image_Dataset/2098.png,Background
+./Image_Dataset/2099.png,Background
+./Image_Dataset/2100.png,Background
+./Image_Dataset/2101.png,Background
+./Image_Dataset/2102.png,Background

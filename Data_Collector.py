@@ -3,8 +3,8 @@ import cv2
 import os
 
 # Rectangle size (change as needed)
-RECT_WIDTH = 400
-RECT_HEIGHT = 300
+RECT_WIDTH = 200
+RECT_HEIGHT = 200
 
 # Output directory
 OUTPUT_DIR = './Image_Dataset/'

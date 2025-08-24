@@ -8,7 +8,7 @@ from PIL import Image
 # Rectangle size (should match Data_Collector.py)
 RECT_WIDTH = 400
 RECT_HEIGHT = 300
-IMG_SIZE = (64, 64)  # Should match training size
+IMG_SIZE = (200, 200)  # Should match training size
 MODEL_FILE = 'model.tflite'
 CLASS_NAMES_FILE = 'class_names.txt'
 
