@@ -1,5 +1,5 @@
 .vscode/
 Image_Dataset/
 class_names.txt
-data.csv
+Data.csv
 model.tflite

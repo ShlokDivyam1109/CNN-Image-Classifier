@@ -42,7 +42,7 @@ Label the collected images with your own class names:
 python Manual_Data_Classification.py
 ```
 - Enter the start and end image numbers for each class range.
-- Enter the class name (string) for each range.
+- Enter the class name (yes/no) for each range.
 - Repeat for all classes, type `done` when finished.
 - This creates/overwrites `Data.csv` with `image,class` columns.
 
@@ -58,7 +58,7 @@ Run the real-time predictor to see class probabilities from the webcam:
 ```sh
 python Realtime_Predictor.py
 ```
-- The model will display the probability for each class (using your class names) in real time.
+- The model will display the probability for each class (using yes/no) in real time.
 - Press `q` to quit.
 
 ## Notes
