@@ -48,12 +48,14 @@ def main():
 		return
 	images = images.astype('float32') / 255.0
 
-	# Encode labels (multi-class)
+	# Encode labels (must be yes/no)
 	lb = LabelBinarizer()
 	labels_bin = lb.fit_transform(labels)
+	# Enforce only two classes: yes and no
+	if set(lb.classes_) != {"yes", "no"}:
+		raise ValueError(f"Only two classes 'yes' and 'no' are allowed. Found: {lb.classes_}")
 	# If only two classes, LabelBinarizer returns shape (n,1), so convert to (n,2) for softmax
-	if len(lb.classes_) == 2:
-		labels_bin = np.column_stack([1-labels_bin[:,0], labels_bin[:,0]])
+	labels_bin = np.column_stack([1-labels_bin[:,0], labels_bin[:,0]])
 
 	# Save class names for use in predictor
 	class_names = lb.classes_.tolist()

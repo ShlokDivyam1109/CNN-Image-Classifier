@@ -1,3 +1,4 @@
+# This project is now set up for only two classes: 'yes' and 'no'.
 
 import os
 import cv2

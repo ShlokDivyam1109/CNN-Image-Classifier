@@ -16,7 +16,8 @@ def main():
 
 	print(f'Total images: {len(images)}')
 	print('You will be asked to enter the start and end image numbers for each class.')
-	print('For example, if you want to classify images 1.png to 10.png as class 0, enter 1 10.')
+	print('For example, if you want to classify images 1.png to 10.png as class yes, enter 1 10 and then yes.')
+	print('Only two classes are allowed: yes or no.')
 	print('Enter "done" when finished.')
 
 	class_ranges = []
@@ -35,7 +36,12 @@ def main():
 			print('Start must be <= end.')
 			continue
 		# Mark used images
-		cls = input(f'Enter class ID for the above range: ')
+		while True:
+			cls = input(f'Enter class name for the above range (yes/no): ').strip().lower()
+			if cls not in ["yes", "no"]:
+				print('Invalid class name. Please enter "yes" or "no".')
+			else:
+				break
 		for i in range(start, end+1):
 			if i in used:
 				print(f'Image {i}.png already classified. Skipping.')
